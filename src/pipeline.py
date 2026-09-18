@@ -9,6 +9,7 @@ from __future__ import annotations
 import datetime as dt
 import json
 import logging
+import os
 import sys
 from pathlib import Path
 
@@ -80,10 +81,15 @@ def main() -> None:
         idex_infra_series if idex_infra_series is not None else __import__("pandas").DataFrame(),
     )
 
-    texto = _safe("Geracao de texto (Claude)", lambda: text_generation.gerar_texto_resumo(deltas, str(reference_date)))
-    if not texto:
-        texto = "Texto indisponivel nesta execucao (falha na geracao automatica)."
-        warnings.append("Texto do resumo semanal nao pode ser gerado nesta execucao")
+    texto = None
+    if os.environ.get("ANTHROPIC_API_KEY"):
+        texto = _safe(
+            "Geracao de texto (Claude)", lambda: text_generation.gerar_texto_resumo(deltas, str(reference_date))
+        )
+        if not texto:
+            warnings.append("Texto do resumo semanal nao pode ser gerado nesta execucao")
+    else:
+        logger.info("ANTHROPIC_API_KEY nao configurada - pulando geracao de texto, so graficos")
 
     latest = {
         "gerado_em": dt.datetime.now().isoformat(timespec="seconds"),

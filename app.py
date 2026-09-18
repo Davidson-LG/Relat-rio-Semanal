@@ -97,8 +97,9 @@ def main() -> None:
             for aviso in latest["avisos"]:
                 st.warning(aviso)
 
-    st.markdown("### Resumo semanal")
-    st.write(latest["texto"])
+    if latest.get("texto"):
+        st.markdown("### Resumo semanal")
+        st.write(latest["texto"])
 
     graficos = latest["graficos"]
 
