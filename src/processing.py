@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import logging
 from pathlib import Path
 from typing import Callable
 
@@ -19,6 +20,7 @@ import pandas as pd
 from fetchers import anbima, b3, jgp, treasury
 
 HISTORY_DIR = Path(__file__).resolve().parent.parent / "data" / "history"
+logger = logging.getLogger("pipeline.processing")
 
 
 def nearest_business_day(reference: dt.date) -> dt.date:
@@ -35,16 +37,29 @@ def _nearest_available(
     se o pregao nao existir (feriado, fim de semana etc.)."""
     d = target
     tried = 0
+    last_error: Exception | None = None
     while tried <= max_lookback:
         d_util = nearest_business_day(d)
         try:
             df = fetch_fn(d_util)
-        except Exception:
+            last_error = None
+        except Exception as exc:
             df = pd.DataFrame()
+            last_error = exc
         if not df.empty:
             return df, d_util
         d -= dt.timedelta(days=1)
         tried += 1
+    if last_error is not None:
+        logger.warning(
+            "%s: todas as %d tentativas falharam, ultimo erro: %s: %s",
+            getattr(fetch_fn, "__module__", fetch_fn), max_lookback + 1, type(last_error).__name__, last_error,
+        )
+    else:
+        logger.warning(
+            "%s: todas as %d tentativas retornaram vazio (sem excecao)",
+            getattr(fetch_fn, "__module__", fetch_fn), max_lookback + 1,
+        )
     return pd.DataFrame(), None
 
 

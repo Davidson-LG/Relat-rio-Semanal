@@ -30,11 +30,18 @@ HISTORY_DIR = DATA_DIR / "history"
 def _safe(nome: str, fn):
     try:
         resultado = fn()
-        logger.info("OK: %s", nome)
-        return resultado
     except Exception as exc:
         logger.warning("FALHOU: %s (%s: %s)", nome, type(exc).__name__, exc)
         return None
+    if hasattr(resultado, "empty"):
+        vazio = resultado.empty
+    else:
+        vazio = not resultado
+    if vazio:
+        logger.warning("VAZIO: %s (sem excecao, mas nenhum dado retornado)", nome)
+    else:
+        logger.info("OK: %s", nome)
+    return resultado
 
 
 def main() -> None:
