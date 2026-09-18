@@ -1,0 +1,182 @@
+{
+  "idex_di": [
+    {
+      "Data": "2026-08-17",
+      "spread_medio_ponderado": 0.016323222218606534
+    },
+    {
+      "Data": "2026-08-18",
+      "spread_medio_ponderado": 0.016215843756823986
+    },
+    {
+      "Data": "2026-08-19",
+      "spread_medio_ponderado": 0.016180002845524885
+    },
+    {
+      "Data": "2026-08-20",
+      "spread_medio_ponderado": 0.016193808990843054
+    },
+    {
+      "Data": "2026-08-21",
+      "spread_medio_ponderado": 0.016173006366905354
+    },
+    {
+      "Data": "2026-08-24",
+      "spread_medio_ponderado": 0.016184368081096086
+    },
+    {
+      "Data": "2026-08-25",
+      "spread_medio_ponderado": 0.01608970383587916
+    },
+    {
+      "Data": "2026-08-26",
+      "spread_medio_ponderado": 0.01594738028304355
+    },
+    {
+      "Data": "2026-08-27",
+      "spread_medio_ponderado": 0.01596825340512074
+    },
+    {
+      "Data": "2026-08-28",
+      "spread_medio_ponderado": 0.01609794970696947
+    },
+    {
+      "Data": "2026-08-31",
+      "spread_medio_ponderado": 0.015314650604641126
+    },
+    {
+      "Data": "2026-09-01",
+      "spread_medio_ponderado": 0.013922593031157286
+    },
+    {
+      "Data": "2026-09-02",
+      "spread_medio_ponderado": 0.013912876098099153
+    },
+    {
+      "Data": "2026-09-03",
+      "spread_medio_ponderado": 0.01399779549489142
+    },
+    {
+      "Data": "2026-09-04",
+      "spread_medio_ponderado": 0.014211567396279531
+    },
+    {
+      "Data": "2026-09-08",
+      "spread_medio_ponderado": 0.014096745840156825
+    },
+    {
+      "Data": "2026-09-09",
+      "spread_medio_ponderado": 0.014147616580139818
+    },
+    {
+      "Data": "2026-09-10",
+      "spread_medio_ponderado": 0.014124036905267548
+    },
+    {
+      "Data": "2026-09-11",
+      "spread_medio_ponderado": 0.014125623506585779
+    },
+    {
+      "Data": "2026-09-14",
+      "spread_medio_ponderado": 0.01408808811449391
+    },
+    {
+      "Data": "2026-09-15",
+      "spread_medio_ponderado": 0.014249988434957799
+    },
+    {
+      "Data": "2026-09-16",
+      "spread_medio_ponderado": 0.014238256570016938
+    }
+  ],
+  "idex_infra": [
+    {
+      "Data": "2026-08-17",
+      "numero_indice": 1.59568273
+    },
+    {
+      "Data": "2026-08-18",
+      "numero_indice": 1.59128817
+    },
+    {
+      "Data": "2026-08-19",
+      "numero_indice": 1.60095363
+    },
+    {
+      "Data": "2026-08-20",
+      "numero_indice": 1.60681571
+    },
+    {
+      "Data": "2026-08-21",
+      "numero_indice": 1.59883554
+    },
+    {
+      "Data": "2026-08-24",
+      "numero_indice": 1.6002318
+    },
+    {
+      "Data": "2026-08-25",
+      "numero_indice": 1.600052
+    },
+    {
+      "Data": "2026-08-26",
+      "numero_indice": 1.59867941
+    },
+    {
+      "Data": "2026-08-27",
+      "numero_indice": 1.59869569
+    },
+    {
+      "Data": "2026-08-28",
+      "numero_indice": 1.60177767
+    },
+    {
+      "Data": "2026-08-31",
+      "numero_indice": 1.59854863
+    },
+    {
+      "Data": "2026-09-01",
+      "numero_indice": 1.60073193
+    },
+    {
+      "Data": "2026-09-02",
+      "numero_indice": 1.60473625
+    },
+    {
+      "Data": "2026-09-03",
+      "numero_indice": 1.60860336
+    },
+    {
+      "Data": "2026-09-04",
+      "numero_indice": 1.61517695
+    },
+    {
+      "Data": "2026-09-08",
+      "numero_indice": 1.61940234
+    },
+    {
+      "Data": "2026-09-09",
+      "numero_indice": 1.6210534
+    },
+    {
+      "Data": "2026-09-10",
+      "numero_indice": 1.61856335
+    },
+    {
+      "Data": "2026-09-11",
+      "numero_indice": 1.62959632
+    },
+    {
+      "Data": "2026-09-14",
+      "numero_indice": 1.62174552
+    },
+    {
+      "Data": "2026-09-15",
+      "numero_indice": 1.61210958
+    },
+    {
+      "Data": "2026-09-16",
+      "numero_indice": 1.61120108
+    }
+  ]
+}
