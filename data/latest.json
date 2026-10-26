@@ -1,136 +1,26 @@
 {
-  "gerado_em": "2026-10-19T18:40:43",
-  "data_referencia": "2026-10-19",
+  "gerado_em": "2026-10-26T18:38:15",
+  "data_referencia": "2026-10-26",
   "texto": null,
   "graficos": {
     "treasury": {
       "atual": {
-        "data": "2026-10-16",
+        "data": "2026-10-23",
         "pontos": [
           {
             "vertice": "1 mes",
             "anos": 0.08333333333333333,
-            "taxa": 4.12
+            "taxa": 4.11
           },
           {
             "vertice": "3 meses",
             "anos": 0.25,
-            "taxa": 4.26
+            "taxa": 4.22
           },
           {
             "vertice": "6 meses",
             "anos": 0.5,
-            "taxa": 4.34
-          },
-          {
-            "vertice": "1 ano",
-            "anos": 1,
-            "taxa": 4.46
-          },
-          {
-            "vertice": "2 anos",
-            "anos": 2,
-            "taxa": 4.74
-          },
-          {
-            "vertice": "5 anos",
-            "anos": 5,
-            "taxa": 4.89
-          },
-          {
-            "vertice": "7 anos",
-            "anos": 7,
-            "taxa": 4.98
-          },
-          {
-            "vertice": "10 anos",
-            "anos": 10,
-            "taxa": 5.09
-          },
-          {
-            "vertice": "20 anos",
-            "anos": 20,
-            "taxa": 5.47
-          },
-          {
-            "vertice": "30 anos",
-            "anos": 30,
-            "taxa": 5.43
-          }
-        ]
-      },
-      "1 semana": {
-        "data": "2026-10-09",
-        "pontos": [
-          {
-            "vertice": "1 mes",
-            "anos": 0.08333333333333333,
-            "taxa": 4.13
-          },
-          {
-            "vertice": "3 meses",
-            "anos": 0.25,
-            "taxa": 4.25
-          },
-          {
-            "vertice": "6 meses",
-            "anos": 0.5,
-            "taxa": 4.32
-          },
-          {
-            "vertice": "1 ano",
-            "anos": 1,
-            "taxa": 4.47
-          },
-          {
-            "vertice": "2 anos",
-            "anos": 2,
-            "taxa": 4.8
-          },
-          {
-            "vertice": "5 anos",
-            "anos": 5,
-            "taxa": 5.02
-          },
-          {
-            "vertice": "7 anos",
-            "anos": 7,
-            "taxa": 5.13
-          },
-          {
-            "vertice": "10 anos",
-            "anos": 10,
-            "taxa": 5.24
-          },
-          {
-            "vertice": "20 anos",
-            "anos": 20,
-            "taxa": 5.65
-          },
-          {
-            "vertice": "30 anos",
-            "anos": 30,
-            "taxa": 5.6
-          }
-        ]
-      },
-      "1 mes": {
-        "data": "2026-09-18",
-        "pontos": [
-          {
-            "vertice": "1 mes",
-            "anos": 0.08333333333333333,
-            "taxa": 3.97
-          },
-          {
-            "vertice": "3 meses",
-            "anos": 0.25,
-            "taxa": 4.14
-          },
-          {
-            "vertice": "6 meses",
-            "anos": 0.5,
-            "taxa": 4.24
+            "taxa": 4.3
           },
           {
             "vertice": "1 ano",
@@ -140,47 +30,157 @@
           {
             "vertice": "2 anos",
             "anos": 2,
-            "taxa": 4.76
+            "taxa": 4.69
           },
           {
             "vertice": "5 anos",
             "anos": 5,
-            "taxa": 4.86
+            "taxa": 4.82
           },
           {
             "vertice": "7 anos",
             "anos": 7,
-            "taxa": 4.93
+            "taxa": 4.89
           },
           {
             "vertice": "10 anos",
             "anos": 10,
-            "taxa": 5.01
+            "taxa": 5.0
           },
           {
             "vertice": "20 anos",
             "anos": 20,
-            "taxa": 5.38
+            "taxa": 5.37
           },
           {
             "vertice": "30 anos",
             "anos": 30,
-            "taxa": 5.34
+            "taxa": 5.33
           }
         ]
       },
-      "6 meses": {
-        "data": "2026-04-20",
+      "1 semana": {
+        "data": "2026-10-19",
         "pontos": [
           {
             "vertice": "1 mes",
             "anos": 0.08333333333333333,
-            "taxa": 3.69
+            "taxa": 4.11
           },
           {
             "vertice": "3 meses",
             "anos": 0.25,
-            "taxa": 3.71
+            "taxa": 4.27
+          },
+          {
+            "vertice": "6 meses",
+            "anos": 0.5,
+            "taxa": 4.37
+          },
+          {
+            "vertice": "1 ano",
+            "anos": 1,
+            "taxa": 4.5
+          },
+          {
+            "vertice": "2 anos",
+            "anos": 2,
+            "taxa": 4.77
+          },
+          {
+            "vertice": "5 anos",
+            "anos": 5,
+            "taxa": 4.94
+          },
+          {
+            "vertice": "7 anos",
+            "anos": 7,
+            "taxa": 5.04
+          },
+          {
+            "vertice": "10 anos",
+            "anos": 10,
+            "taxa": 5.15
+          },
+          {
+            "vertice": "20 anos",
+            "anos": 20,
+            "taxa": 5.53
+          },
+          {
+            "vertice": "30 anos",
+            "anos": 30,
+            "taxa": 5.48
+          }
+        ]
+      },
+      "1 mes": {
+        "data": "2026-09-25",
+        "pontos": [
+          {
+            "vertice": "1 mes",
+            "anos": 0.08333333333333333,
+            "taxa": 4.04
+          },
+          {
+            "vertice": "3 meses",
+            "anos": 0.25,
+            "taxa": 4.24
+          },
+          {
+            "vertice": "6 meses",
+            "anos": 0.5,
+            "taxa": 4.33
+          },
+          {
+            "vertice": "1 ano",
+            "anos": 1,
+            "taxa": 4.5
+          },
+          {
+            "vertice": "2 anos",
+            "anos": 2,
+            "taxa": 4.81
+          },
+          {
+            "vertice": "5 anos",
+            "anos": 5,
+            "taxa": 4.98
+          },
+          {
+            "vertice": "7 anos",
+            "anos": 7,
+            "taxa": 5.06
+          },
+          {
+            "vertice": "10 anos",
+            "anos": 10,
+            "taxa": 5.17
+          },
+          {
+            "vertice": "20 anos",
+            "anos": 20,
+            "taxa": 5.54
+          },
+          {
+            "vertice": "30 anos",
+            "anos": 30,
+            "taxa": 5.49
+          }
+        ]
+      },
+      "6 meses": {
+        "data": "2026-04-27",
+        "pontos": [
+          {
+            "vertice": "1 mes",
+            "anos": 0.08333333333333333,
+            "taxa": 3.7
+          },
+          {
+            "vertice": "3 meses",
+            "anos": 0.25,
+            "taxa": 3.68
           },
           {
             "vertice": "6 meses",
@@ -190,44 +190,44 @@
           {
             "vertice": "1 ano",
             "anos": 1,
-            "taxa": 3.65
+            "taxa": 3.69
           },
           {
             "vertice": "2 anos",
             "anos": 2,
-            "taxa": 3.72
+            "taxa": 3.78
           },
           {
             "vertice": "5 anos",
             "anos": 5,
-            "taxa": 3.86
+            "taxa": 3.94
           },
           {
             "vertice": "7 anos",
             "anos": 7,
-            "taxa": 4.04
+            "taxa": 4.14
           },
           {
             "vertice": "10 anos",
             "anos": 10,
-            "taxa": 4.26
+            "taxa": 4.35
           },
           {
             "vertice": "20 anos",
             "anos": 20,
-            "taxa": 4.85
+            "taxa": 4.92
           },
           {
             "vertice": "30 anos",
             "anos": 30,
-            "taxa": 4.88
+            "taxa": 4.94
           }
         ]
       }
     },
     "curva_di": {
       "atual": {
-        "data": "2026-10-16",
+        "data": "2026-10-23",
         "pontos": [
           {
             "dias_corridos": 3,
@@ -235,2819 +235,2789 @@
             "taxa_di": 0.1365
           },
           {
-            "dias_corridos": 4,
-            "dias_uteis": 2,
-            "taxa_di": 0.13652
-          },
-          {
             "dias_corridos": 5,
             "dias_uteis": 3,
-            "taxa_di": 0.13652
-          },
-          {
-            "dias_corridos": 7,
-            "dias_uteis": 5,
-            "taxa_di": 0.13653
-          },
-          {
-            "dias_corridos": 12,
-            "dias_uteis": 8,
-            "taxa_di": 0.13653
-          },
-          {
-            "dias_corridos": 13,
-            "dias_uteis": 9,
-            "taxa_di": 0.13653
-          },
-          {
-            "dias_corridos": 14,
-            "dias_uteis": 10,
-            "taxa_di": 0.13653
-          },
-          {
-            "dias_corridos": 18,
-            "dias_uteis": 11,
-            "taxa_di": 0.13653
-          },
-          {
-            "dias_corridos": 21,
-            "dias_uteis": 14,
-            "taxa_di": 0.13615
-          },
-          {
-            "dias_corridos": 31,
-            "dias_uteis": 20,
-            "taxa_di": 0.13573
-          },
-          {
-            "dias_corridos": 32,
-            "dias_uteis": 21,
-            "taxa_di": 0.13568
-          },
-          {
-            "dias_corridos": 33,
-            "dias_uteis": 22,
-            "taxa_di": 0.13564
-          },
-          {
-            "dias_corridos": 34,
-            "dias_uteis": 23,
-            "taxa_di": 0.1356
-          },
-          {
-            "dias_corridos": 41,
-            "dias_uteis": 27,
-            "taxa_di": 0.13547
-          },
-          {
-            "dias_corridos": 42,
-            "dias_uteis": 28,
-            "taxa_di": 0.13545
-          },
-          {
-            "dias_corridos": 45,
-            "dias_uteis": 29,
-            "taxa_di": 0.13542
-          },
-          {
-            "dias_corridos": 46,
-            "dias_uteis": 30,
-            "taxa_di": 0.1354
-          },
-          {
-            "dias_corridos": 59,
-            "dias_uteis": 39,
-            "taxa_di": 0.13513
-          },
-          {
-            "dias_corridos": 60,
-            "dias_uteis": 40,
-            "taxa_di": 0.13511
-          },
-          {
-            "dias_corridos": 61,
-            "dias_uteis": 41,
-            "taxa_di": 0.13509
-          },
-          {
-            "dias_corridos": 62,
-            "dias_uteis": 42,
-            "taxa_di": 0.13507
-          },
-          {
-            "dias_corridos": 63,
-            "dias_uteis": 43,
-            "taxa_di": 0.13505
-          },
-          {
-            "dias_corridos": 73,
-            "dias_uteis": 48,
-            "taxa_di": 0.13497
-          },
-          {
-            "dias_corridos": 74,
-            "dias_uteis": 49,
-            "taxa_di": 0.13495
-          },
-          {
-            "dias_corridos": 75,
-            "dias_uteis": 50,
-            "taxa_di": 0.13494
-          },
-          {
-            "dias_corridos": 80,
-            "dias_uteis": 52,
-            "taxa_di": 0.13491
-          },
-          {
-            "dias_corridos": 90,
-            "dias_uteis": 60,
-            "taxa_di": 0.13476
-          },
-          {
-            "dias_corridos": 91,
-            "dias_uteis": 61,
-            "taxa_di": 0.13474
-          },
-          {
-            "dias_corridos": 94,
-            "dias_uteis": 62,
-            "taxa_di": 0.13472
-          },
-          {
-            "dias_corridos": 96,
-            "dias_uteis": 64,
-            "taxa_di": 0.13469
-          },
-          {
-            "dias_corridos": 97,
-            "dias_uteis": 65,
-            "taxa_di": 0.13468
-          },
-          {
-            "dias_corridos": 105,
-            "dias_uteis": 71,
-            "taxa_di": 0.1346
-          },
-          {
-            "dias_corridos": 108,
-            "dias_uteis": 72,
-            "taxa_di": 0.13459
-          },
-          {
-            "dias_corridos": 119,
-            "dias_uteis": 79,
-            "taxa_di": 0.13443
-          },
-          {
-            "dias_corridos": 122,
-            "dias_uteis": 80,
-            "taxa_di": 0.13441
-          },
-          {
-            "dias_corridos": 123,
-            "dias_uteis": 81,
-            "taxa_di": 0.13439
-          },
-          {
-            "dias_corridos": 124,
-            "dias_uteis": 82,
-            "taxa_di": 0.13437
-          },
-          {
-            "dias_corridos": 126,
-            "dias_uteis": 84,
-            "taxa_di": 0.13433
-          },
-          {
-            "dias_corridos": 131,
-            "dias_uteis": 87,
-            "taxa_di": 0.13428
-          },
-          {
-            "dias_corridos": 132,
-            "dias_uteis": 88,
-            "taxa_di": 0.13426
-          },
-          {
-            "dias_corridos": 133,
-            "dias_uteis": 89,
-            "taxa_di": 0.13425
-          },
-          {
-            "dias_corridos": 136,
-            "dias_uteis": 90,
-            "taxa_di": 0.13423
-          },
-          {
-            "dias_corridos": 150,
-            "dias_uteis": 100,
-            "taxa_di": 0.13398
-          },
-          {
-            "dias_corridos": 151,
-            "dias_uteis": 101,
-            "taxa_di": 0.13396
-          },
-          {
-            "dias_corridos": 152,
-            "dias_uteis": 102,
-            "taxa_di": 0.13394
-          },
-          {
-            "dias_corridos": 153,
-            "dias_uteis": 103,
-            "taxa_di": 0.13392
-          },
-          {
-            "dias_corridos": 154,
-            "dias_uteis": 104,
-            "taxa_di": 0.13389
-          },
-          {
-            "dias_corridos": 157,
-            "dias_uteis": 105,
-            "taxa_di": 0.13387
-          },
-          {
-            "dias_corridos": 164,
-            "dias_uteis": 109,
-            "taxa_di": 0.1338
-          },
-          {
-            "dias_corridos": 166,
-            "dias_uteis": 111,
-            "taxa_di": 0.13376
-          },
-          {
-            "dias_corridos": 167,
-            "dias_uteis": 112,
-            "taxa_di": 0.13374
-          },
-          {
-            "dias_corridos": 180,
-            "dias_uteis": 121,
-            "taxa_di": 0.13355
-          },
-          {
-            "dias_corridos": 181,
-            "dias_uteis": 122,
-            "taxa_di": 0.13353
-          },
-          {
-            "dias_corridos": 182,
-            "dias_uteis": 123,
-            "taxa_di": 0.13351
-          },
-          {
-            "dias_corridos": 194,
-            "dias_uteis": 130,
-            "taxa_di": 0.13339
-          },
-          {
-            "dias_corridos": 195,
-            "dias_uteis": 131,
-            "taxa_di": 0.13337
-          },
-          {
-            "dias_corridos": 196,
-            "dias_uteis": 132,
-            "taxa_di": 0.13336
-          },
-          {
-            "dias_corridos": 199,
-            "dias_uteis": 133,
-            "taxa_di": 0.13334
-          },
-          {
-            "dias_corridos": 210,
-            "dias_uteis": 142,
-            "taxa_di": 0.13314
-          },
-          {
-            "dias_corridos": 213,
-            "dias_uteis": 143,
-            "taxa_di": 0.13312
-          },
-          {
-            "dias_corridos": 216,
-            "dias_uteis": 146,
-            "taxa_di": 0.13306
-          },
-          {
-            "dias_corridos": 227,
-            "dias_uteis": 152,
-            "taxa_di": 0.13295
-          },
-          {
-            "dias_corridos": 228,
-            "dias_uteis": 153,
-            "taxa_di": 0.13293
-          },
-          {
-            "dias_corridos": 241,
-            "dias_uteis": 162,
-            "taxa_di": 0.13276
-          },
-          {
-            "dias_corridos": 243,
-            "dias_uteis": 164,
-            "taxa_di": 0.13273
-          },
-          {
-            "dias_corridos": 245,
-            "dias_uteis": 166,
-            "taxa_di": 0.13269
-          },
-          {
-            "dias_corridos": 256,
-            "dias_uteis": 173,
-            "taxa_di": 0.13258
-          },
-          {
-            "dias_corridos": 257,
-            "dias_uteis": 174,
-            "taxa_di": 0.13257
-          },
-          {
-            "dias_corridos": 258,
-            "dias_uteis": 175,
-            "taxa_di": 0.13255
-          },
-          {
-            "dias_corridos": 270,
-            "dias_uteis": 183,
-            "taxa_di": 0.13232
-          },
-          {
-            "dias_corridos": 272,
-            "dias_uteis": 185,
-            "taxa_di": 0.13226
-          },
-          {
-            "dias_corridos": 286,
-            "dias_uteis": 195,
-            "taxa_di": 0.132
-          },
-          {
-            "dias_corridos": 287,
-            "dias_uteis": 196,
-            "taxa_di": 0.13197
-          },
-          {
-            "dias_corridos": 290,
-            "dias_uteis": 197,
-            "taxa_di": 0.13195
-          },
-          {
-            "dias_corridos": 300,
-            "dias_uteis": 205,
-            "taxa_di": 0.13172
-          },
-          {
-            "dias_corridos": 301,
-            "dias_uteis": 206,
-            "taxa_di": 0.1317
-          },
-          {
-            "dias_corridos": 304,
-            "dias_uteis": 207,
-            "taxa_di": 0.13167
-          },
-          {
-            "dias_corridos": 306,
-            "dias_uteis": 209,
-            "taxa_di": 0.13162
-          },
-          {
-            "dias_corridos": 318,
-            "dias_uteis": 217,
-            "taxa_di": 0.13142
-          },
-          {
-            "dias_corridos": 319,
-            "dias_uteis": 218,
-            "taxa_di": 0.13139
-          },
-          {
-            "dias_corridos": 320,
-            "dias_uteis": 219,
-            "taxa_di": 0.13137
-          },
-          {
-            "dias_corridos": 332,
-            "dias_uteis": 226,
-            "taxa_di": 0.13119
-          },
-          {
-            "dias_corridos": 334,
-            "dias_uteis": 228,
-            "taxa_di": 0.13114
-          },
-          {
-            "dias_corridos": 341,
-            "dias_uteis": 233,
-            "taxa_di": 0.13101
-          },
-          {
-            "dias_corridos": 349,
-            "dias_uteis": 239,
-            "taxa_di": 0.13087
-          },
-          {
-            "dias_corridos": 350,
-            "dias_uteis": 240,
-            "taxa_di": 0.13085
-          },
-          {
-            "dias_corridos": 360,
-            "dias_uteis": 246,
-            "taxa_di": 0.13066
-          },
-          {
-            "dias_corridos": 362,
-            "dias_uteis": 247,
-            "taxa_di": 0.13063
-          },
-          {
-            "dias_corridos": 377,
-            "dias_uteis": 258,
-            "taxa_di": 0.13031
-          },
-          {
-            "dias_corridos": 378,
-            "dias_uteis": 259,
-            "taxa_di": 0.13028
-          },
-          {
-            "dias_corridos": 381,
-            "dias_uteis": 260,
-            "taxa_di": 0.13025
-          },
-          {
-            "dias_corridos": 390,
-            "dias_uteis": 266,
-            "taxa_di": 0.13008
-          },
-          {
-            "dias_corridos": 396,
-            "dias_uteis": 269,
-            "taxa_di": 0.12999
-          },
-          {
-            "dias_corridos": 410,
-            "dias_uteis": 279,
-            "taxa_di": 0.12973
-          },
-          {
-            "dias_corridos": 411,
-            "dias_uteis": 280,
-            "taxa_di": 0.1297
-          },
-          {
-            "dias_corridos": 420,
-            "dias_uteis": 287,
-            "taxa_di": 0.12954
-          },
-          {
-            "dias_corridos": 425,
-            "dias_uteis": 290,
-            "taxa_di": 0.12947
-          },
-          {
-            "dias_corridos": 431,
-            "dias_uteis": 294,
-            "taxa_di": 0.12939
-          },
-          {
-            "dias_corridos": 439,
-            "dias_uteis": 300,
-            "taxa_di": 0.12926
-          },
-          {
-            "dias_corridos": 440,
-            "dias_uteis": 301,
-            "taxa_di": 0.12924
-          },
-          {
-            "dias_corridos": 444,
-            "dias_uteis": 303,
-            "taxa_di": 0.1292
-          },
-          {
-            "dias_corridos": 451,
-            "dias_uteis": 308,
-            "taxa_di": 0.12911
-          },
-          {
-            "dias_corridos": 458,
-            "dias_uteis": 313,
-            "taxa_di": 0.12902
-          },
-          {
-            "dias_corridos": 472,
-            "dias_uteis": 323,
-            "taxa_di": 0.12885
-          },
-          {
-            "dias_corridos": 480,
-            "dias_uteis": 329,
-            "taxa_di": 0.12875
-          },
-          {
-            "dias_corridos": 487,
-            "dias_uteis": 334,
-            "taxa_di": 0.12868
-          },
-          {
-            "dias_corridos": 488,
-            "dias_uteis": 335,
-            "taxa_di": 0.12866
-          },
-          {
-            "dias_corridos": 497,
-            "dias_uteis": 342,
-            "taxa_di": 0.12856
-          },
-          {
-            "dias_corridos": 510,
-            "dias_uteis": 349,
-            "taxa_di": 0.12846
-          },
-          {
-            "dias_corridos": 516,
-            "dias_uteis": 353,
-            "taxa_di": 0.1284
-          },
-          {
-            "dias_corridos": 524,
-            "dias_uteis": 359,
-            "taxa_di": 0.12832
-          },
-          {
-            "dias_corridos": 532,
-            "dias_uteis": 365,
-            "taxa_di": 0.12824
-          },
-          {
-            "dias_corridos": 535,
-            "dias_uteis": 366,
-            "taxa_di": 0.12823
-          },
-          {
-            "dias_corridos": 542,
-            "dias_uteis": 371,
-            "taxa_di": 0.12817
-          },
-          {
-            "dias_corridos": 544,
-            "dias_uteis": 373,
-            "taxa_di": 0.12815
-          },
-          {
-            "dias_corridos": 559,
-            "dias_uteis": 382,
-            "taxa_di": 0.12805
-          },
-          {
-            "dias_corridos": 570,
-            "dias_uteis": 388,
-            "taxa_di": 0.12799
-          },
-          {
-            "dias_corridos": 577,
-            "dias_uteis": 393,
-            "taxa_di": 0.12794
-          },
-          {
-            "dias_corridos": 594,
-            "dias_uteis": 406,
-            "taxa_di": 0.12781
-          },
-          {
-            "dias_corridos": 600,
-            "dias_uteis": 410,
-            "taxa_di": 0.12777
-          },
-          {
-            "dias_corridos": 607,
-            "dias_uteis": 415,
-            "taxa_di": 0.12773
-          },
-          {
-            "dias_corridos": 614,
-            "dias_uteis": 419,
-            "taxa_di": 0.12769
-          },
-          {
-            "dias_corridos": 626,
-            "dias_uteis": 427,
-            "taxa_di": 0.12762
-          },
-          {
-            "dias_corridos": 630,
-            "dias_uteis": 431,
-            "taxa_di": 0.12761
-          },
-          {
-            "dias_corridos": 661,
-            "dias_uteis": 452,
-            "taxa_di": 0.12754
-          },
-          {
-            "dias_corridos": 669,
-            "dias_uteis": 458,
-            "taxa_di": 0.12753
-          },
-          {
-            "dias_corridos": 670,
-            "dias_uteis": 459,
-            "taxa_di": 0.12752
-          },
-          {
-            "dias_corridos": 686,
-            "dias_uteis": 471,
-            "taxa_di": 0.12749
-          },
-          {
-            "dias_corridos": 690,
-            "dias_uteis": 473,
-            "taxa_di": 0.12749
-          },
-          {
-            "dias_corridos": 705,
-            "dias_uteis": 483,
-            "taxa_di": 0.12746
-          },
-          {
-            "dias_corridos": 717,
-            "dias_uteis": 491,
-            "taxa_di": 0.12744
-          },
-          {
-            "dias_corridos": 720,
-            "dias_uteis": 494,
-            "taxa_di": 0.12743
-          },
-          {
-            "dias_corridos": 733,
-            "dias_uteis": 502,
-            "taxa_di": 0.12741
-          },
-          {
-            "dias_corridos": 747,
-            "dias_uteis": 512,
-            "taxa_di": 0.12739
-          },
-          {
-            "dias_corridos": 752,
-            "dias_uteis": 514,
-            "taxa_di": 0.12738
-          },
-          {
-            "dias_corridos": 762,
-            "dias_uteis": 521,
-            "taxa_di": 0.12735
-          },
-          {
-            "dias_corridos": 777,
-            "dias_uteis": 531,
-            "taxa_di": 0.12731
-          },
-          {
-            "dias_corridos": 780,
-            "dias_uteis": 532,
-            "taxa_di": 0.1273
-          },
-          {
-            "dias_corridos": 789,
-            "dias_uteis": 539,
-            "taxa_di": 0.12727
-          },
-          {
-            "dias_corridos": 796,
-            "dias_uteis": 544,
-            "taxa_di": 0.12724
-          },
-          {
-            "dias_corridos": 809,
-            "dias_uteis": 551,
-            "taxa_di": 0.1272
-          },
-          {
-            "dias_corridos": 810,
-            "dias_uteis": 552,
-            "taxa_di": 0.1272
-          },
-          {
-            "dias_corridos": 840,
-            "dias_uteis": 574,
-            "taxa_di": 0.12728
-          },
-          {
-            "dias_corridos": 853,
-            "dias_uteis": 581,
-            "taxa_di": 0.12731
-          },
-          {
-            "dias_corridos": 871,
-            "dias_uteis": 593,
-            "taxa_di": 0.12735
-          },
-          {
-            "dias_corridos": 899,
-            "dias_uteis": 612,
-            "taxa_di": 0.12741
-          },
-          {
-            "dias_corridos": 900,
-            "dias_uteis": 613,
-            "taxa_di": 0.12741
-          },
-          {
-            "dias_corridos": 930,
-            "dias_uteis": 634,
-            "taxa_di": 0.12747
-          },
-          {
-            "dias_corridos": 942,
-            "dias_uteis": 642,
-            "taxa_di": 0.1275
-          },
-          {
-            "dias_corridos": 962,
-            "dias_uteis": 655,
-            "taxa_di": 0.12753
-          },
-          {
-            "dias_corridos": 990,
-            "dias_uteis": 675,
-            "taxa_di": 0.12758
-          },
-          {
-            "dias_corridos": 1020,
-            "dias_uteis": 697,
-            "taxa_di": 0.1276
-          },
-          {
-            "dias_corridos": 1034,
-            "dias_uteis": 707,
-            "taxa_di": 0.12761
-          },
-          {
-            "dias_corridos": 1050,
-            "dias_uteis": 719,
-            "taxa_di": 0.12762
-          },
-          {
-            "dias_corridos": 1081,
-            "dias_uteis": 739,
-            "taxa_di": 0.12764
-          },
-          {
-            "dias_corridos": 1110,
-            "dias_uteis": 759,
-            "taxa_di": 0.12749
-          },
-          {
-            "dias_corridos": 1112,
-            "dias_uteis": 761,
-            "taxa_di": 0.12747
-          },
-          {
-            "dias_corridos": 1127,
-            "dias_uteis": 770,
-            "taxa_di": 0.12747
-          },
-          {
-            "dias_corridos": 1140,
-            "dias_uteis": 778,
-            "taxa_di": 0.12748
-          },
-          {
-            "dias_corridos": 1144,
-            "dias_uteis": 780,
-            "taxa_di": 0.12748
-          },
-          {
-            "dias_corridos": 1172,
-            "dias_uteis": 799,
-            "taxa_di": 0.12749
-          },
-          {
-            "dias_corridos": 1174,
-            "dias_uteis": 800,
-            "taxa_di": 0.12749
-          },
-          {
-            "dias_corridos": 1200,
-            "dias_uteis": 818,
-            "taxa_di": 0.12751
-          },
-          {
-            "dias_corridos": 1218,
-            "dias_uteis": 832,
-            "taxa_di": 0.12752
-          },
-          {
-            "dias_corridos": 1263,
-            "dias_uteis": 861,
-            "taxa_di": 0.12755
-          },
-          {
-            "dias_corridos": 1307,
-            "dias_uteis": 891,
-            "taxa_di": 0.12763
-          },
-          {
-            "dias_corridos": 1354,
-            "dias_uteis": 923,
-            "taxa_di": 0.1277
-          },
-          {
-            "dias_corridos": 1399,
-            "dias_uteis": 956,
-            "taxa_di": 0.12765
-          },
-          {
-            "dias_corridos": 1433,
-            "dias_uteis": 980,
-            "taxa_di": 0.12761
-          },
-          {
-            "dias_corridos": 1440,
-            "dias_uteis": 985,
-            "taxa_di": 0.12761
-          },
-          {
-            "dias_corridos": 1446,
-            "dias_uteis": 989,
-            "taxa_di": 0.1276
-          },
-          {
-            "dias_corridos": 1494,
-            "dias_uteis": 1022,
-            "taxa_di": 0.12766
-          },
-          {
-            "dias_corridos": 1524,
-            "dias_uteis": 1043,
-            "taxa_di": 0.1277
-          },
-          {
-            "dias_corridos": 1539,
-            "dias_uteis": 1052,
-            "taxa_di": 0.12772
-          },
-          {
-            "dias_corridos": 1585,
-            "dias_uteis": 1084,
-            "taxa_di": 0.12776
-          },
-          {
-            "dias_corridos": 1615,
-            "dias_uteis": 1104,
-            "taxa_di": 0.12779
-          },
-          {
-            "dias_corridos": 1628,
-            "dias_uteis": 1113,
-            "taxa_di": 0.1278
-          },
-          {
-            "dias_corridos": 1672,
-            "dias_uteis": 1142,
-            "taxa_di": 0.12788
-          },
-          {
-            "dias_corridos": 1690,
-            "dias_uteis": 1154,
-            "taxa_di": 0.12792
-          },
-          {
-            "dias_corridos": 1706,
-            "dias_uteis": 1165,
-            "taxa_di": 0.12795
-          },
-          {
-            "dias_corridos": 1719,
-            "dias_uteis": 1174,
-            "taxa_di": 0.12797
-          },
-          {
-            "dias_corridos": 1764,
-            "dias_uteis": 1207,
-            "taxa_di": 0.12804
-          },
-          {
-            "dias_corridos": 1781,
-            "dias_uteis": 1218,
-            "taxa_di": 0.12806
-          },
-          {
-            "dias_corridos": 1797,
-            "dias_uteis": 1230,
-            "taxa_di": 0.12808
-          },
-          {
-            "dias_corridos": 1802,
-            "dias_uteis": 1233,
-            "taxa_di": 0.12809
-          },
-          {
-            "dias_corridos": 1811,
-            "dias_uteis": 1240,
-            "taxa_di": 0.1281
-          },
-          {
-            "dias_corridos": 1858,
-            "dias_uteis": 1273,
-            "taxa_di": 0.12824
-          },
-          {
-            "dias_corridos": 1872,
-            "dias_uteis": 1282,
-            "taxa_di": 0.12828
-          },
-          {
-            "dias_corridos": 1888,
-            "dias_uteis": 1294,
-            "taxa_di": 0.12833
-          },
-          {
-            "dias_corridos": 1904,
-            "dias_uteis": 1304,
-            "taxa_di": 0.12837
-          },
-          {
-            "dias_corridos": 1949,
-            "dias_uteis": 1333,
-            "taxa_di": 0.12843
-          },
-          {
-            "dias_corridos": 2040,
-            "dias_uteis": 1396,
-            "taxa_di": 0.12856
-          },
-          {
-            "dias_corridos": 2131,
-            "dias_uteis": 1460,
-            "taxa_di": 0.12868
-          },
-          {
-            "dias_corridos": 2160,
-            "dias_uteis": 1480,
-            "taxa_di": 0.12872
-          },
-          {
-            "dias_corridos": 2223,
-            "dias_uteis": 1522,
-            "taxa_di": 0.12879
-          },
-          {
-            "dias_corridos": 2271,
-            "dias_uteis": 1556,
-            "taxa_di": 0.12884
-          },
-          {
-            "dias_corridos": 2314,
-            "dias_uteis": 1587,
-            "taxa_di": 0.12885
-          },
-          {
-            "dias_corridos": 2404,
-            "dias_uteis": 1647,
-            "taxa_di": 0.12888
-          },
-          {
-            "dias_corridos": 2495,
-            "dias_uteis": 1711,
-            "taxa_di": 0.12891
-          },
-          {
-            "dias_corridos": 2520,
-            "dias_uteis": 1729,
-            "taxa_di": 0.12891
-          },
-          {
-            "dias_corridos": 2588,
-            "dias_uteis": 1774,
-            "taxa_di": 0.12893
-          },
-          {
-            "dias_corridos": 2635,
-            "dias_uteis": 1807,
-            "taxa_di": 0.12894
-          },
-          {
-            "dias_corridos": 2679,
-            "dias_uteis": 1839,
-            "taxa_di": 0.12894
-          },
-          {
-            "dias_corridos": 2768,
-            "dias_uteis": 1897,
-            "taxa_di": 0.12894
-          },
-          {
-            "dias_corridos": 2860,
-            "dias_uteis": 1962,
-            "taxa_di": 0.12893
-          },
-          {
-            "dias_corridos": 2880,
-            "dias_uteis": 1976,
-            "taxa_di": 0.12893
-          },
-          {
-            "dias_corridos": 2953,
-            "dias_uteis": 2025,
-            "taxa_di": 0.12893
-          },
-          {
-            "dias_corridos": 3000,
-            "dias_uteis": 2055,
-            "taxa_di": 0.12893
-          },
-          {
-            "dias_corridos": 3044,
-            "dias_uteis": 2085,
-            "taxa_di": 0.1289
-          },
-          {
-            "dias_corridos": 3133,
-            "dias_uteis": 2146,
-            "taxa_di": 0.12884
-          },
-          {
-            "dias_corridos": 3225,
-            "dias_uteis": 2211,
-            "taxa_di": 0.12877
-          },
-          {
-            "dias_corridos": 3240,
-            "dias_uteis": 2222,
-            "taxa_di": 0.12876
-          },
-          {
-            "dias_corridos": 3318,
-            "dias_uteis": 2274,
-            "taxa_di": 0.12872
-          },
-          {
-            "dias_corridos": 3365,
-            "dias_uteis": 2304,
-            "taxa_di": 0.12869
-          },
-          {
-            "dias_corridos": 3409,
-            "dias_uteis": 2336,
-            "taxa_di": 0.12872
-          },
-          {
-            "dias_corridos": 3499,
-            "dias_uteis": 2395,
-            "taxa_di": 0.12878
-          },
-          {
-            "dias_corridos": 3591,
-            "dias_uteis": 2460,
-            "taxa_di": 0.12884
-          },
-          {
-            "dias_corridos": 3601,
-            "dias_uteis": 2466,
-            "taxa_di": 0.12885
-          },
-          {
-            "dias_corridos": 3685,
-            "dias_uteis": 2526,
-            "taxa_di": 0.1289
-          },
-          {
-            "dias_corridos": 3731,
-            "dias_uteis": 2557,
-            "taxa_di": 0.12893
-          },
-          {
-            "dias_corridos": 3778,
-            "dias_uteis": 2588,
-            "taxa_di": 0.12893
-          },
-          {
-            "dias_corridos": 3864,
-            "dias_uteis": 2647,
-            "taxa_di": 0.12894
-          },
-          {
-            "dias_corridos": 3958,
-            "dias_uteis": 2712,
-            "taxa_di": 0.12894
-          },
-          {
-            "dias_corridos": 3960,
-            "dias_uteis": 2714,
-            "taxa_di": 0.12894
-          },
-          {
-            "dias_corridos": 4049,
-            "dias_uteis": 2774,
-            "taxa_di": 0.12895
-          },
-          {
-            "dias_corridos": 4098,
-            "dias_uteis": 2806,
-            "taxa_di": 0.12895
-          },
-          {
-            "dias_corridos": 4140,
-            "dias_uteis": 2836,
-            "taxa_di": 0.12891
-          },
-          {
-            "dias_corridos": 4231,
-            "dias_uteis": 2897,
-            "taxa_di": 0.12884
-          },
-          {
-            "dias_corridos": 4322,
-            "dias_uteis": 2961,
-            "taxa_di": 0.12876
-          },
-          {
-            "dias_corridos": 4414,
-            "dias_uteis": 3023,
-            "taxa_di": 0.12869
-          },
-          {
-            "dias_corridos": 4462,
-            "dias_uteis": 3057,
-            "taxa_di": 0.12865
-          },
-          {
-            "dias_corridos": 4505,
-            "dias_uteis": 3088,
-            "taxa_di": 0.12863
-          },
-          {
-            "dias_corridos": 4595,
-            "dias_uteis": 3148,
-            "taxa_di": 0.1286
-          },
-          {
-            "dias_corridos": 4680,
-            "dias_uteis": 3208,
-            "taxa_di": 0.12856
-          },
-          {
-            "dias_corridos": 4686,
-            "dias_uteis": 3212,
-            "taxa_di": 0.12856
-          },
-          {
-            "dias_corridos": 4779,
-            "dias_uteis": 3275,
-            "taxa_di": 0.12853
-          },
-          {
-            "dias_corridos": 4826,
-            "dias_uteis": 3308,
-            "taxa_di": 0.12851
-          },
-          {
-            "dias_corridos": 4870,
-            "dias_uteis": 3338,
-            "taxa_di": 0.1285
-          },
-          {
-            "dias_corridos": 4960,
-            "dias_uteis": 3400,
-            "taxa_di": 0.12848
-          },
-          {
-            "dias_corridos": 5040,
-            "dias_uteis": 3457,
-            "taxa_di": 0.12845
-          },
-          {
-            "dias_corridos": 5052,
-            "dias_uteis": 3465,
-            "taxa_di": 0.12845
-          },
-          {
-            "dias_corridos": 5145,
-            "dias_uteis": 3528,
-            "taxa_di": 0.12843
-          },
-          {
-            "dias_corridos": 5192,
-            "dias_uteis": 3558,
-            "taxa_di": 0.12842
-          },
-          {
-            "dias_corridos": 5236,
-            "dias_uteis": 3590,
-            "taxa_di": 0.12841
-          },
-          {
-            "dias_corridos": 5325,
-            "dias_uteis": 3649,
-            "taxa_di": 0.12839
-          },
-          {
-            "dias_corridos": 5400,
-            "dias_uteis": 3701,
-            "taxa_di": 0.12837
-          },
-          {
-            "dias_corridos": 5417,
-            "dias_uteis": 3714,
-            "taxa_di": 0.12837
-          },
-          {
-            "dias_corridos": 5512,
-            "dias_uteis": 3780,
-            "taxa_di": 0.12835
-          },
-          {
-            "dias_corridos": 5582,
-            "dias_uteis": 3827,
-            "taxa_di": 0.12834
-          },
-          {
-            "dias_corridos": 5605,
-            "dias_uteis": 3842,
-            "taxa_di": 0.12833
-          },
-          {
-            "dias_corridos": 5690,
-            "dias_uteis": 3900,
-            "taxa_di": 0.12832
-          },
-          {
-            "dias_corridos": 5782,
-            "dias_uteis": 3965,
-            "taxa_di": 0.1283
-          },
-          {
-            "dias_corridos": 5876,
-            "dias_uteis": 4031,
-            "taxa_di": 0.12828
-          },
-          {
-            "dias_corridos": 5967,
-            "dias_uteis": 4091,
-            "taxa_di": 0.12826
-          },
-          {
-            "dias_corridos": 6055,
-            "dias_uteis": 4152,
-            "taxa_di": 0.12825
-          },
-          {
-            "dias_corridos": 6149,
-            "dias_uteis": 4217,
-            "taxa_di": 0.12823
-          },
-          {
-            "dias_corridos": 6240,
-            "dias_uteis": 4279,
-            "taxa_di": 0.12822
-          },
-          {
-            "dias_corridos": 6331,
-            "dias_uteis": 4341,
-            "taxa_di": 0.12821
-          },
-          {
-            "dias_corridos": 6422,
-            "dias_uteis": 4402,
-            "taxa_di": 0.12819
-          },
-          {
-            "dias_corridos": 6513,
-            "dias_uteis": 4466,
-            "taxa_di": 0.12818
-          },
-          {
-            "dias_corridos": 6606,
-            "dias_uteis": 4529,
-            "taxa_di": 0.12816
-          },
-          {
-            "dias_corridos": 6697,
-            "dias_uteis": 4594,
-            "taxa_di": 0.12815
-          },
-          {
-            "dias_corridos": 6786,
-            "dias_uteis": 4652,
-            "taxa_di": 0.12814
-          },
-          {
-            "dias_corridos": 6878,
-            "dias_uteis": 4717,
-            "taxa_di": 0.12813
-          },
-          {
-            "dias_corridos": 7062,
-            "dias_uteis": 4840,
-            "taxa_di": 0.1281
-          },
-          {
-            "dias_corridos": 7200,
-            "dias_uteis": 4935,
-            "taxa_di": 0.12809
-          },
-          {
-            "dias_corridos": 7243,
-            "dias_uteis": 4966,
-            "taxa_di": 0.12808
-          },
-          {
-            "dias_corridos": 7427,
-            "dias_uteis": 5091,
-            "taxa_di": 0.12806
-          },
-          {
-            "dias_corridos": 7608,
-            "dias_uteis": 5215,
-            "taxa_di": 0.12804
-          },
-          {
-            "dias_corridos": 7796,
-            "dias_uteis": 5343,
-            "taxa_di": 0.12802
-          },
-          {
-            "dias_corridos": 7976,
-            "dias_uteis": 5467,
-            "taxa_di": 0.128
-          },
-          {
-            "dias_corridos": 8158,
-            "dias_uteis": 5591,
-            "taxa_di": 0.12799
-          },
-          {
-            "dias_corridos": 8340,
-            "dias_uteis": 5716,
-            "taxa_di": 0.12797
-          },
-          {
-            "dias_corridos": 8523,
-            "dias_uteis": 5843,
-            "taxa_di": 0.12795
-          },
-          {
-            "dias_corridos": 8704,
-            "dias_uteis": 5967,
-            "taxa_di": 0.12794
-          },
-          {
-            "dias_corridos": 9000,
-            "dias_uteis": 6169,
-            "taxa_di": 0.12792
-          },
-          {
-            "dias_corridos": 10440,
-            "dias_uteis": 7156,
-            "taxa_di": 0.12782
-          },
-          {
-            "dias_corridos": 10800,
-            "dias_uteis": 7404,
-            "taxa_di": 0.1278
-          },
-          {
-            "dias_corridos": 12358,
-            "dias_uteis": 8473,
-            "taxa_di": 0.12773
-          }
-        ]
-      },
-      "1 semana": {
-        "data": "2026-10-09",
-        "pontos": [
-          {
-            "dias_corridos": 4,
-            "dias_uteis": 1,
-            "taxa_di": 0.1365
-          },
-          {
-            "dias_corridos": 5,
-            "dias_uteis": 2,
-            "taxa_di": 0.13652
+            "taxa_di": 0.13651
           },
           {
             "dias_corridos": 6,
-            "dias_uteis": 3,
-            "taxa_di": 0.13653
+            "dias_uteis": 4,
+            "taxa_di": 0.13651
           },
           {
             "dias_corridos": 7,
-            "dias_uteis": 4,
-            "taxa_di": 0.13653
-          },
-          {
-            "dias_corridos": 10,
             "dias_uteis": 5,
-            "taxa_di": 0.13653
+            "taxa_di": 0.13651
           },
           {
             "dias_corridos": 11,
             "dias_uteis": 6,
-            "taxa_di": 0.13654
-          },
-          {
-            "dias_corridos": 12,
-            "dias_uteis": 7,
-            "taxa_di": 0.13654
+            "taxa_di": 0.13651
           },
           {
             "dias_corridos": 14,
             "dias_uteis": 9,
-            "taxa_di": 0.13654
-          },
-          {
-            "dias_corridos": 19,
-            "dias_uteis": 12,
-            "taxa_di": 0.13654
-          },
-          {
-            "dias_corridos": 20,
-            "dias_uteis": 13,
-            "taxa_di": 0.13654
+            "taxa_di": 0.13598
           },
           {
             "dias_corridos": 21,
             "dias_uteis": 14,
-            "taxa_di": 0.13654
+            "taxa_di": 0.1356
+          },
+          {
+            "dias_corridos": 24,
+            "dias_uteis": 15,
+            "taxa_di": 0.13555
           },
           {
             "dias_corridos": 25,
-            "dias_uteis": 15,
-            "taxa_di": 0.13654
+            "dias_uteis": 16,
+            "taxa_di": 0.13551
+          },
+          {
+            "dias_corridos": 26,
+            "dias_uteis": 17,
+            "taxa_di": 0.13548
+          },
+          {
+            "dias_corridos": 27,
+            "dias_uteis": 18,
+            "taxa_di": 0.13545
           },
           {
             "dias_corridos": 31,
             "dias_uteis": 19,
-            "taxa_di": 0.1361
+            "taxa_di": 0.13542
+          },
+          {
+            "dias_corridos": 34,
+            "dias_uteis": 22,
+            "taxa_di": 0.13535
+          },
+          {
+            "dias_corridos": 35,
+            "dias_uteis": 23,
+            "taxa_di": 0.13533
           },
           {
             "dias_corridos": 38,
             "dias_uteis": 24,
-            "taxa_di": 0.13576
+            "taxa_di": 0.13532
           },
           {
             "dias_corridos": 39,
             "dias_uteis": 25,
-            "taxa_di": 0.13571
-          },
-          {
-            "dias_corridos": 40,
-            "dias_uteis": 26,
-            "taxa_di": 0.13566
-          },
-          {
-            "dias_corridos": 41,
-            "dias_uteis": 27,
-            "taxa_di": 0.13562
-          },
-          {
-            "dias_corridos": 48,
-            "dias_uteis": 31,
-            "taxa_di": 0.13547
-          },
-          {
-            "dias_corridos": 49,
-            "dias_uteis": 32,
-            "taxa_di": 0.13544
+            "taxa_di": 0.1353
           },
           {
             "dias_corridos": 52,
-            "dias_uteis": 33,
-            "taxa_di": 0.13541
+            "dias_uteis": 34,
+            "taxa_di": 0.13495
           },
           {
             "dias_corridos": 53,
-            "dias_uteis": 34,
-            "taxa_di": 0.13538
+            "dias_uteis": 35,
+            "taxa_di": 0.13492
+          },
+          {
+            "dias_corridos": 54,
+            "dias_uteis": 36,
+            "taxa_di": 0.1349
+          },
+          {
+            "dias_corridos": 55,
+            "dias_uteis": 37,
+            "taxa_di": 0.13487
+          },
+          {
+            "dias_corridos": 56,
+            "dias_uteis": 38,
+            "taxa_di": 0.13485
           },
           {
             "dias_corridos": 60,
-            "dias_uteis": 39,
-            "taxa_di": 0.13506
+            "dias_uteis": 40,
+            "taxa_di": 0.1348
+          },
+          {
+            "dias_corridos": 66,
+            "dias_uteis": 43,
+            "taxa_di": 0.13475
           },
           {
             "dias_corridos": 67,
             "dias_uteis": 44,
-            "taxa_di": 0.13481
+            "taxa_di": 0.13473
           },
           {
             "dias_corridos": 68,
             "dias_uteis": 45,
-            "taxa_di": 0.13477
+            "taxa_di": 0.13471
           },
           {
-            "dias_corridos": 69,
-            "dias_uteis": 46,
-            "taxa_di": 0.13473
-          },
-          {
-            "dias_corridos": 70,
+            "dias_corridos": 73,
             "dias_uteis": 47,
-            "taxa_di": 0.13469
+            "taxa_di": 0.13468
           },
           {
-            "dias_corridos": 80,
-            "dias_uteis": 52,
-            "taxa_di": 0.13452
-          },
-          {
-            "dias_corridos": 81,
-            "dias_uteis": 53,
-            "taxa_di": 0.13449
-          },
-          {
-            "dias_corridos": 82,
-            "dias_uteis": 54,
-            "taxa_di": 0.13446
+            "dias_corridos": 84,
+            "dias_uteis": 56,
+            "taxa_di": 0.13443
           },
           {
             "dias_corridos": 87,
-            "dias_uteis": 56,
-            "taxa_di": 0.1344
+            "dias_uteis": 57,
+            "taxa_di": 0.13441
+          },
+          {
+            "dias_corridos": 89,
+            "dias_uteis": 59,
+            "taxa_di": 0.13437
           },
           {
             "dias_corridos": 90,
-            "dias_uteis": 59,
-            "taxa_di": 0.13426
+            "dias_uteis": 60,
+            "taxa_di": 0.13435
           },
           {
             "dias_corridos": 98,
-            "dias_uteis": 65,
-            "taxa_di": 0.13401
+            "dias_uteis": 66,
+            "taxa_di": 0.13424
           },
           {
             "dias_corridos": 101,
-            "dias_uteis": 66,
-            "taxa_di": 0.13397
-          },
-          {
-            "dias_corridos": 103,
-            "dias_uteis": 68,
-            "taxa_di": 0.1339
-          },
-          {
-            "dias_corridos": 104,
-            "dias_uteis": 69,
-            "taxa_di": 0.13387
+            "dias_uteis": 67,
+            "taxa_di": 0.13422
           },
           {
             "dias_corridos": 112,
-            "dias_uteis": 75,
-            "taxa_di": 0.13369
+            "dias_uteis": 74,
+            "taxa_di": 0.134
           },
           {
             "dias_corridos": 115,
+            "dias_uteis": 75,
+            "taxa_di": 0.13397
+          },
+          {
+            "dias_corridos": 116,
             "dias_uteis": 76,
-            "taxa_di": 0.13366
+            "taxa_di": 0.13395
+          },
+          {
+            "dias_corridos": 117,
+            "dias_uteis": 77,
+            "taxa_di": 0.13392
+          },
+          {
+            "dias_corridos": 119,
+            "dias_uteis": 79,
+            "taxa_di": 0.13387
+          },
+          {
+            "dias_corridos": 122,
+            "dias_uteis": 80,
+            "taxa_di": 0.13384
           },
           {
             "dias_corridos": 124,
-            "dias_uteis": 81,
-            "taxa_di": 0.13343
+            "dias_uteis": 82,
+            "taxa_di": 0.1338
+          },
+          {
+            "dias_corridos": 125,
+            "dias_uteis": 83,
+            "taxa_di": 0.13377
           },
           {
             "dias_corridos": 126,
-            "dias_uteis": 83,
-            "taxa_di": 0.13335
+            "dias_uteis": 84,
+            "taxa_di": 0.13375
           },
           {
             "dias_corridos": 129,
-            "dias_uteis": 84,
-            "taxa_di": 0.13331
-          },
-          {
-            "dias_corridos": 130,
             "dias_uteis": 85,
-            "taxa_di": 0.13327
-          },
-          {
-            "dias_corridos": 131,
-            "dias_uteis": 86,
-            "taxa_di": 0.13323
-          },
-          {
-            "dias_corridos": 138,
-            "dias_uteis": 91,
-            "taxa_di": 0.13305
-          },
-          {
-            "dias_corridos": 139,
-            "dias_uteis": 92,
-            "taxa_di": 0.13302
-          },
-          {
-            "dias_corridos": 140,
-            "dias_uteis": 93,
-            "taxa_di": 0.13298
+            "taxa_di": 0.13373
           },
           {
             "dias_corridos": 143,
-            "dias_uteis": 94,
-            "taxa_di": 0.13295
+            "dias_uteis": 95,
+            "taxa_di": 0.13345
+          },
+          {
+            "dias_corridos": 144,
+            "dias_uteis": 96,
+            "taxa_di": 0.13342
+          },
+          {
+            "dias_corridos": 145,
+            "dias_uteis": 97,
+            "taxa_di": 0.1334
+          },
+          {
+            "dias_corridos": 146,
+            "dias_uteis": 98,
+            "taxa_di": 0.13338
+          },
+          {
+            "dias_corridos": 147,
+            "dias_uteis": 99,
+            "taxa_di": 0.13335
           },
           {
             "dias_corridos": 150,
-            "dias_uteis": 99,
-            "taxa_di": 0.13274
+            "dias_uteis": 100,
+            "taxa_di": 0.13333
           },
           {
             "dias_corridos": 157,
             "dias_uteis": 104,
-            "taxa_di": 0.13256
+            "taxa_di": 0.13324
           },
           {
-            "dias_corridos": 158,
-            "dias_uteis": 105,
-            "taxa_di": 0.13252
+            "dias_corridos": 159,
+            "dias_uteis": 106,
+            "taxa_di": 0.1332
           },
           {
             "dias_corridos": 160,
             "dias_uteis": 107,
-            "taxa_di": 0.13246
-          },
-          {
-            "dias_corridos": 161,
-            "dias_uteis": 108,
-            "taxa_di": 0.13242
-          },
-          {
-            "dias_corridos": 164,
-            "dias_uteis": 109,
-            "taxa_di": 0.13239
-          },
-          {
-            "dias_corridos": 171,
-            "dias_uteis": 113,
-            "taxa_di": 0.13227
+            "taxa_di": 0.13318
           },
           {
             "dias_corridos": 173,
-            "dias_uteis": 115,
-            "taxa_di": 0.13221
+            "dias_uteis": 116,
+            "taxa_di": 0.13296
           },
           {
             "dias_corridos": 174,
-            "dias_uteis": 116,
-            "taxa_di": 0.13218
+            "dias_uteis": 117,
+            "taxa_di": 0.13294
           },
           {
-            "dias_corridos": 180,
-            "dias_uteis": 120,
-            "taxa_di": 0.13201
+            "dias_corridos": 175,
+            "dias_uteis": 118,
+            "taxa_di": 0.13292
+          },
+          {
+            "dias_corridos": 181,
+            "dias_uteis": 121,
+            "taxa_di": 0.13286
           },
           {
             "dias_corridos": 187,
             "dias_uteis": 125,
-            "taxa_di": 0.1318
+            "taxa_di": 0.13278
+          },
+          {
+            "dias_corridos": 188,
+            "dias_uteis": 126,
+            "taxa_di": 0.13276
           },
           {
             "dias_corridos": 189,
             "dias_uteis": 127,
-            "taxa_di": 0.13173
+            "taxa_di": 0.13274
           },
           {
-            "dias_corridos": 201,
-            "dias_uteis": 134,
-            "taxa_di": 0.13148
-          },
-          {
-            "dias_corridos": 202,
-            "dias_uteis": 135,
-            "taxa_di": 0.13145
-          },
-          {
-            "dias_corridos": 203,
-            "dias_uteis": 136,
-            "taxa_di": 0.13141
+            "dias_corridos": 192,
+            "dias_uteis": 128,
+            "taxa_di": 0.13272
           },
           {
             "dias_corridos": 206,
-            "dias_uteis": 137,
-            "taxa_di": 0.13138
+            "dias_uteis": 138,
+            "taxa_di": 0.13248
+          },
+          {
+            "dias_corridos": 209,
+            "dias_uteis": 141,
+            "taxa_di": 0.13242
           },
           {
             "dias_corridos": 210,
-            "dias_uteis": 141,
-            "taxa_di": 0.1312
+            "dias_uteis": 142,
+            "taxa_di": 0.1324
           },
           {
             "dias_corridos": 220,
             "dias_uteis": 147,
-            "taxa_di": 0.13096
+            "taxa_di": 0.1323
           },
           {
-            "dias_corridos": 223,
-            "dias_uteis": 150,
-            "taxa_di": 0.13084
+            "dias_corridos": 221,
+            "dias_uteis": 148,
+            "taxa_di": 0.13228
           },
           {
-            "dias_corridos": 234,
-            "dias_uteis": 156,
-            "taxa_di": 0.13062
+            "dias_corridos": 236,
+            "dias_uteis": 159,
+            "taxa_di": 0.13207
           },
           {
-            "dias_corridos": 235,
-            "dias_uteis": 157,
-            "taxa_di": 0.13059
+            "dias_corridos": 238,
+            "dias_uteis": 161,
+            "taxa_di": 0.13204
           },
           {
             "dias_corridos": 241,
-            "dias_uteis": 161,
-            "taxa_di": 0.13043
+            "dias_uteis": 162,
+            "taxa_di": 0.13202
+          },
+          {
+            "dias_corridos": 249,
+            "dias_uteis": 168,
+            "taxa_di": 0.13192
           },
           {
             "dias_corridos": 250,
-            "dias_uteis": 168,
-            "taxa_di": 0.13018
+            "dias_uteis": 169,
+            "taxa_di": 0.13191
           },
           {
-            "dias_corridos": 252,
+            "dias_corridos": 251,
             "dias_uteis": 170,
-            "taxa_di": 0.13011
-          },
-          {
-            "dias_corridos": 263,
-            "dias_uteis": 177,
-            "taxa_di": 0.12988
-          },
-          {
-            "dias_corridos": 264,
-            "dias_uteis": 178,
-            "taxa_di": 0.12985
+            "taxa_di": 0.13189
           },
           {
             "dias_corridos": 265,
-            "dias_uteis": 179,
-            "taxa_di": 0.12982
+            "dias_uteis": 180,
+            "taxa_di": 0.13158
           },
           {
             "dias_corridos": 270,
-            "dias_uteis": 182,
-            "taxa_di": 0.12968
+            "dias_uteis": 183,
+            "taxa_di": 0.1315
           },
           {
             "dias_corridos": 279,
-            "dias_uteis": 189,
-            "taxa_di": 0.12938
+            "dias_uteis": 190,
+            "taxa_di": 0.13131
           },
           {
-            "dias_corridos": 293,
-            "dias_uteis": 199,
-            "taxa_di": 0.12899
+            "dias_corridos": 280,
+            "dias_uteis": 191,
+            "taxa_di": 0.13129
+          },
+          {
+            "dias_corridos": 283,
+            "dias_uteis": 192,
+            "taxa_di": 0.13126
           },
           {
             "dias_corridos": 294,
-            "dias_uteis": 200,
-            "taxa_di": 0.12896
+            "dias_uteis": 201,
+            "taxa_di": 0.13098
           },
           {
             "dias_corridos": 297,
-            "dias_uteis": 201,
-            "taxa_di": 0.12892
+            "dias_uteis": 202,
+            "taxa_di": 0.13095
+          },
+          {
+            "dias_corridos": 299,
+            "dias_uteis": 204,
+            "taxa_di": 0.13089
           },
           {
             "dias_corridos": 300,
-            "dias_uteis": 204,
-            "taxa_di": 0.12879
-          },
-          {
-            "dias_corridos": 308,
-            "dias_uteis": 210,
-            "taxa_di": 0.12854
+            "dias_uteis": 205,
+            "taxa_di": 0.13087
           },
           {
             "dias_corridos": 311,
-            "dias_uteis": 211,
-            "taxa_di": 0.1285
+            "dias_uteis": 212,
+            "taxa_di": 0.13067
+          },
+          {
+            "dias_corridos": 312,
+            "dias_uteis": 213,
+            "taxa_di": 0.13065
           },
           {
             "dias_corridos": 313,
-            "dias_uteis": 213,
-            "taxa_di": 0.12842
-          },
-          {
-            "dias_corridos": 325,
-            "dias_uteis": 221,
-            "taxa_di": 0.12812
-          },
-          {
-            "dias_corridos": 326,
-            "dias_uteis": 222,
-            "taxa_di": 0.12809
+            "dias_uteis": 214,
+            "taxa_di": 0.13062
           },
           {
             "dias_corridos": 327,
             "dias_uteis": 223,
-            "taxa_di": 0.12805
+            "taxa_di": 0.13039
           },
           {
             "dias_corridos": 332,
             "dias_uteis": 226,
-            "taxa_di": 0.12794
+            "taxa_di": 0.13032
           },
           {
-            "dias_corridos": 341,
-            "dias_uteis": 232,
-            "taxa_di": 0.12772
+            "dias_corridos": 334,
+            "dias_uteis": 228,
+            "taxa_di": 0.13028
           },
           {
-            "dias_corridos": 348,
-            "dias_uteis": 237,
-            "taxa_di": 0.12755
+            "dias_corridos": 342,
+            "dias_uteis": 234,
+            "taxa_di": 0.13014
           },
           {
-            "dias_corridos": 356,
-            "dias_uteis": 243,
-            "taxa_di": 0.12735
+            "dias_corridos": 343,
+            "dias_uteis": 235,
+            "taxa_di": 0.13012
           },
           {
-            "dias_corridos": 357,
-            "dias_uteis": 244,
-            "taxa_di": 0.12732
+            "dias_corridos": 355,
+            "dias_uteis": 242,
+            "taxa_di": 0.12992
           },
           {
             "dias_corridos": 360,
             "dias_uteis": 245,
-            "taxa_di": 0.12728
+            "taxa_di": 0.12983
           },
           {
-            "dias_corridos": 369,
-            "dias_uteis": 251,
-            "taxa_di": 0.12704
+            "dias_corridos": 370,
+            "dias_uteis": 253,
+            "taxa_di": 0.12962
           },
           {
-            "dias_corridos": 384,
-            "dias_uteis": 262,
-            "taxa_di": 0.12664
+            "dias_corridos": 371,
+            "dias_uteis": 254,
+            "taxa_di": 0.1296
           },
           {
-            "dias_corridos": 385,
-            "dias_uteis": 263,
-            "taxa_di": 0.1266
+            "dias_corridos": 374,
+            "dias_uteis": 255,
+            "taxa_di": 0.12957
           },
           {
-            "dias_corridos": 388,
+            "dias_corridos": 389,
             "dias_uteis": 264,
-            "taxa_di": 0.12657
+            "taxa_di": 0.1293
           },
           {
             "dias_corridos": 390,
             "dias_uteis": 265,
-            "taxa_di": 0.12653
+            "taxa_di": 0.12927
           },
           {
             "dias_corridos": 403,
-            "dias_uteis": 273,
-            "taxa_di": 0.12625
+            "dias_uteis": 274,
+            "taxa_di": 0.12902
           },
           {
-            "dias_corridos": 417,
-            "dias_uteis": 283,
-            "taxa_di": 0.12592
+            "dias_corridos": 404,
+            "dias_uteis": 275,
+            "taxa_di": 0.12899
           },
           {
             "dias_corridos": 418,
-            "dias_uteis": 284,
-            "taxa_di": 0.12589
+            "dias_uteis": 285,
+            "taxa_di": 0.12881
           },
           {
             "dias_corridos": 420,
-            "dias_uteis": 286,
-            "taxa_di": 0.12583
+            "dias_uteis": 287,
+            "taxa_di": 0.12877
+          },
+          {
+            "dias_corridos": 424,
+            "dias_uteis": 289,
+            "taxa_di": 0.12874
           },
           {
             "dias_corridos": 432,
-            "dias_uteis": 294,
-            "taxa_di": 0.12561
+            "dias_uteis": 295,
+            "taxa_di": 0.12864
           },
           {
-            "dias_corridos": 438,
+            "dias_corridos": 433,
+            "dias_uteis": 296,
+            "taxa_di": 0.12862
+          },
+          {
+            "dias_corridos": 437,
             "dias_uteis": 298,
-            "taxa_di": 0.12551
-          },
-          {
-            "dias_corridos": 446,
-            "dias_uteis": 304,
-            "taxa_di": 0.12535
-          },
-          {
-            "dias_corridos": 447,
-            "dias_uteis": 305,
-            "taxa_di": 0.12533
+            "taxa_di": 0.12859
           },
           {
             "dias_corridos": 451,
-            "dias_uteis": 307,
-            "taxa_di": 0.12528
+            "dias_uteis": 308,
+            "taxa_di": 0.12842
           },
           {
             "dias_corridos": 465,
-            "dias_uteis": 317,
-            "taxa_di": 0.12504
-          },
-          {
-            "dias_corridos": 479,
-            "dias_uteis": 327,
-            "taxa_di": 0.12481
+            "dias_uteis": 318,
+            "taxa_di": 0.12826
           },
           {
             "dias_corridos": 480,
-            "dias_uteis": 328,
-            "taxa_di": 0.12479
+            "dias_uteis": 329,
+            "taxa_di": 0.1281
           },
           {
-            "dias_corridos": 494,
-            "dias_uteis": 338,
-            "taxa_di": 0.12458
+            "dias_corridos": 481,
+            "dias_uteis": 330,
+            "taxa_di": 0.12808
           },
           {
-            "dias_corridos": 495,
-            "dias_uteis": 339,
-            "taxa_di": 0.12456
+            "dias_corridos": 490,
+            "dias_uteis": 337,
+            "taxa_di": 0.12799
           },
           {
-            "dias_corridos": 504,
-            "dias_uteis": 346,
-            "taxa_di": 0.12442
+            "dias_corridos": 509,
+            "dias_uteis": 348,
+            "taxa_di": 0.12784
           },
           {
             "dias_corridos": 510,
-            "dias_uteis": 348,
-            "taxa_di": 0.12438
+            "dias_uteis": 349,
+            "taxa_di": 0.12783
           },
           {
-            "dias_corridos": 523,
-            "dias_uteis": 357,
-            "taxa_di": 0.12421
+            "dias_corridos": 517,
+            "dias_uteis": 354,
+            "taxa_di": 0.12777
           },
           {
-            "dias_corridos": 531,
-            "dias_uteis": 363,
-            "taxa_di": 0.1241
+            "dias_corridos": 525,
+            "dias_uteis": 360,
+            "taxa_di": 0.12769
           },
           {
-            "dias_corridos": 539,
-            "dias_uteis": 369,
-            "taxa_di": 0.124
+            "dias_corridos": 528,
+            "dias_uteis": 361,
+            "taxa_di": 0.12768
+          },
+          {
+            "dias_corridos": 537,
+            "dias_uteis": 368,
+            "taxa_di": 0.1276
           },
           {
             "dias_corridos": 542,
             "dias_uteis": 370,
-            "taxa_di": 0.12398
+            "taxa_di": 0.12757
           },
           {
-            "dias_corridos": 551,
+            "dias_corridos": 552,
             "dias_uteis": 377,
-            "taxa_di": 0.12387
+            "taxa_di": 0.12749
           },
           {
-            "dias_corridos": 566,
-            "dias_uteis": 386,
-            "taxa_di": 0.12373
-          },
-          {
-            "dias_corridos": 571,
+            "dias_corridos": 570,
             "dias_uteis": 388,
-            "taxa_di": 0.1237
+            "taxa_di": 0.12738
           },
           {
-            "dias_corridos": 584,
-            "dias_uteis": 397,
-            "taxa_di": 0.12357
+            "dias_corridos": 587,
+            "dias_uteis": 401,
+            "taxa_di": 0.12725
           },
           {
             "dias_corridos": 600,
-            "dias_uteis": 409,
-            "taxa_di": 0.1234
-          },
-          {
-            "dias_corridos": 601,
             "dias_uteis": 410,
-            "taxa_di": 0.12339
+            "taxa_di": 0.12716
           },
           {
-            "dias_corridos": 614,
-            "dias_uteis": 419,
-            "taxa_di": 0.12327
+            "dias_corridos": 607,
+            "dias_uteis": 414,
+            "taxa_di": 0.12712
           },
           {
-            "dias_corridos": 621,
-            "dias_uteis": 423,
-            "taxa_di": 0.12322
+            "dias_corridos": 619,
+            "dias_uteis": 422,
+            "taxa_di": 0.12705
           },
           {
             "dias_corridos": 630,
-            "dias_uteis": 430,
-            "taxa_di": 0.12313
-          },
-          {
-            "dias_corridos": 633,
             "dias_uteis": 431,
-            "taxa_di": 0.12312
+            "taxa_di": 0.127
           },
           {
             "dias_corridos": 661,
-            "dias_uteis": 451,
-            "taxa_di": 0.12295
+            "dias_uteis": 452,
+            "taxa_di": 0.12689
           },
           {
-            "dias_corridos": 676,
-            "dias_uteis": 462,
-            "taxa_di": 0.12286
+            "dias_corridos": 662,
+            "dias_uteis": 453,
+            "taxa_di": 0.12688
           },
           {
-            "dias_corridos": 677,
-            "dias_uteis": 463,
-            "taxa_di": 0.12285
+            "dias_corridos": 663,
+            "dias_uteis": 454,
+            "taxa_di": 0.12688
+          },
+          {
+            "dias_corridos": 679,
+            "dias_uteis": 466,
+            "taxa_di": 0.12682
           },
           {
             "dias_corridos": 690,
             "dias_uteis": 472,
-            "taxa_di": 0.12278
+            "taxa_di": 0.12679
           },
           {
-            "dias_corridos": 693,
-            "dias_uteis": 475,
-            "taxa_di": 0.12276
+            "dias_corridos": 698,
+            "dias_uteis": 478,
+            "taxa_di": 0.12677
           },
           {
-            "dias_corridos": 712,
-            "dias_uteis": 487,
-            "taxa_di": 0.12268
+            "dias_corridos": 710,
+            "dias_uteis": 486,
+            "taxa_di": 0.12673
           },
           {
-            "dias_corridos": 720,
-            "dias_uteis": 493,
-            "taxa_di": 0.12263
+            "dias_corridos": 721,
+            "dias_uteis": 494,
+            "taxa_di": 0.1267
           },
           {
-            "dias_corridos": 724,
-            "dias_uteis": 495,
-            "taxa_di": 0.12262
+            "dias_corridos": 726,
+            "dias_uteis": 497,
+            "taxa_di": 0.12669
           },
           {
             "dias_corridos": 740,
-            "dias_uteis": 506,
-            "taxa_di": 0.12255
+            "dias_uteis": 507,
+            "taxa_di": 0.12665
           },
           {
             "dias_corridos": 752,
             "dias_uteis": 514,
-            "taxa_di": 0.1225
+            "taxa_di": 0.12661
           },
           {
-            "dias_corridos": 754,
+            "dias_corridos": 755,
             "dias_uteis": 516,
-            "taxa_di": 0.12249
+            "taxa_di": 0.1266
           },
           {
-            "dias_corridos": 769,
-            "dias_uteis": 525,
-            "taxa_di": 0.12245
+            "dias_corridos": 770,
+            "dias_uteis": 526,
+            "taxa_di": 0.12655
           },
           {
             "dias_corridos": 780,
-            "dias_uteis": 531,
-            "taxa_di": 0.12242
+            "dias_uteis": 532,
+            "taxa_di": 0.12651
           },
           {
-            "dias_corridos": 784,
-            "dias_uteis": 535,
-            "taxa_di": 0.1224
+            "dias_corridos": 782,
+            "dias_uteis": 534,
+            "taxa_di": 0.1265
           },
           {
-            "dias_corridos": 803,
-            "dias_uteis": 548,
-            "taxa_di": 0.12229
+            "dias_corridos": 789,
+            "dias_uteis": 539,
+            "taxa_di": 0.12646
+          },
+          {
+            "dias_corridos": 802,
+            "dias_uteis": 546,
+            "taxa_di": 0.12642
           },
           {
             "dias_corridos": 810,
             "dias_uteis": 552,
-            "taxa_di": 0.12226
-          },
-          {
-            "dias_corridos": 816,
-            "dias_uteis": 555,
-            "taxa_di": 0.12224
+            "taxa_di": 0.12643
           },
           {
             "dias_corridos": 840,
-            "dias_uteis": 573,
-            "taxa_di": 0.12226
+            "dias_uteis": 574,
+            "taxa_di": 0.12648
           },
           {
-            "dias_corridos": 860,
-            "dias_uteis": 585,
-            "taxa_di": 0.12227
+            "dias_corridos": 846,
+            "dias_uteis": 576,
+            "taxa_di": 0.12648
           },
           {
             "dias_corridos": 871,
-            "dias_uteis": 592,
-            "taxa_di": 0.12228
+            "dias_uteis": 593,
+            "taxa_di": 0.12651
+          },
+          {
+            "dias_corridos": 892,
+            "dias_uteis": 607,
+            "taxa_di": 0.12654
           },
           {
             "dias_corridos": 900,
             "dias_uteis": 613,
-            "taxa_di": 0.1223
-          },
-          {
-            "dias_corridos": 906,
-            "dias_uteis": 616,
-            "taxa_di": 0.1223
+            "taxa_di": 0.12655
           },
           {
             "dias_corridos": 930,
             "dias_uteis": 634,
-            "taxa_di": 0.12234
+            "taxa_di": 0.12657
           },
           {
-            "dias_corridos": 949,
-            "dias_uteis": 646,
-            "taxa_di": 0.12237
+            "dias_corridos": 935,
+            "dias_uteis": 637,
+            "taxa_di": 0.12657
           },
           {
             "dias_corridos": 962,
             "dias_uteis": 655,
-            "taxa_di": 0.12239
+            "taxa_di": 0.12659
+          },
+          {
+            "dias_corridos": 983,
+            "dias_uteis": 670,
+            "taxa_di": 0.1266
           },
           {
             "dias_corridos": 990,
-            "dias_uteis": 674,
-            "taxa_di": 0.12243
+            "dias_uteis": 675,
+            "taxa_di": 0.1266
           },
           {
-            "dias_corridos": 997,
-            "dias_uteis": 679,
-            "taxa_di": 0.12244
+            "dias_corridos": 1013,
+            "dias_uteis": 692,
+            "taxa_di": 0.12659
           },
           {
             "dias_corridos": 1020,
-            "dias_uteis": 696,
-            "taxa_di": 0.1224
+            "dias_uteis": 697,
+            "taxa_di": 0.12659
           },
           {
             "dias_corridos": 1027,
-            "dias_uteis": 701,
-            "taxa_di": 0.12239
+            "dias_uteis": 702,
+            "taxa_di": 0.12658
           },
           {
-            "dias_corridos": 1041,
-            "dias_uteis": 711,
-            "taxa_di": 0.12236
+            "dias_corridos": 1053,
+            "dias_uteis": 719,
+            "taxa_di": 0.12658
           },
           {
-            "dias_corridos": 1050,
-            "dias_uteis": 718,
-            "taxa_di": 0.12235
+            "dias_corridos": 1074,
+            "dias_uteis": 734,
+            "taxa_di": 0.12657
           },
           {
             "dias_corridos": 1081,
-            "dias_uteis": 738,
-            "taxa_di": 0.1223
+            "dias_uteis": 739,
+            "taxa_di": 0.12656
           },
           {
-            "dias_corridos": 1088,
-            "dias_uteis": 743,
-            "taxa_di": 0.12229
+            "dias_corridos": 1105,
+            "dias_uteis": 756,
+            "taxa_di": 0.12653
           },
           {
             "dias_corridos": 1110,
             "dias_uteis": 758,
-            "taxa_di": 0.12226
+            "taxa_di": 0.12653
           },
           {
-            "dias_corridos": 1119,
+            "dias_corridos": 1120,
             "dias_uteis": 765,
-            "taxa_di": 0.12225
+            "taxa_di": 0.12651
           },
           {
-            "dias_corridos": 1134,
-            "dias_uteis": 774,
-            "taxa_di": 0.12223
+            "dias_corridos": 1137,
+            "dias_uteis": 775,
+            "taxa_di": 0.12649
           },
           {
             "dias_corridos": 1140,
-            "dias_uteis": 777,
-            "taxa_di": 0.12222
+            "dias_uteis": 778,
+            "taxa_di": 0.12648
           },
           {
-            "dias_corridos": 1151,
-            "dias_uteis": 784,
-            "taxa_di": 0.1222
+            "dias_corridos": 1167,
+            "dias_uteis": 795,
+            "taxa_di": 0.12645
           },
           {
             "dias_corridos": 1172,
-            "dias_uteis": 799,
-            "taxa_di": 0.12218
-          },
-          {
-            "dias_corridos": 1181,
-            "dias_uteis": 804,
-            "taxa_di": 0.12218
+            "dias_uteis": 798,
+            "taxa_di": 0.12645
           },
           {
             "dias_corridos": 1200,
-            "dias_uteis": 817,
-            "taxa_di": 0.12218
+            "dias_uteis": 818,
+            "taxa_di": 0.12641
           },
           {
-            "dias_corridos": 1225,
-            "dias_uteis": 836,
-            "taxa_di": 0.12217
+            "dias_corridos": 1211,
+            "dias_uteis": 827,
+            "taxa_di": 0.1264
           },
           {
-            "dias_corridos": 1270,
-            "dias_uteis": 865,
-            "taxa_di": 0.12217
+            "dias_corridos": 1256,
+            "dias_uteis": 856,
+            "taxa_di": 0.12636
           },
           {
-            "dias_corridos": 1314,
-            "dias_uteis": 895,
-            "taxa_di": 0.12219
+            "dias_corridos": 1300,
+            "dias_uteis": 886,
+            "taxa_di": 0.12637
           },
           {
-            "dias_corridos": 1361,
-            "dias_uteis": 927,
-            "taxa_di": 0.1222
+            "dias_corridos": 1347,
+            "dias_uteis": 918,
+            "taxa_di": 0.12637
           },
           {
-            "dias_corridos": 1406,
-            "dias_uteis": 960,
-            "taxa_di": 0.12222
+            "dias_corridos": 1392,
+            "dias_uteis": 951,
+            "taxa_di": 0.12638
+          },
+          {
+            "dias_corridos": 1426,
+            "dias_uteis": 975,
+            "taxa_di": 0.12639
+          },
+          {
+            "dias_corridos": 1439,
+            "dias_uteis": 984,
+            "taxa_di": 0.12639
           },
           {
             "dias_corridos": 1440,
-            "dias_uteis": 984,
-            "taxa_di": 0.12223
+            "dias_uteis": 985,
+            "taxa_di": 0.12639
           },
           {
-            "dias_corridos": 1453,
-            "dias_uteis": 993,
-            "taxa_di": 0.12224
+            "dias_corridos": 1487,
+            "dias_uteis": 1017,
+            "taxa_di": 0.12641
           },
           {
-            "dias_corridos": 1501,
-            "dias_uteis": 1026,
-            "taxa_di": 0.12228
+            "dias_corridos": 1517,
+            "dias_uteis": 1038,
+            "taxa_di": 0.12642
           },
           {
-            "dias_corridos": 1531,
+            "dias_corridos": 1532,
             "dias_uteis": 1047,
-            "taxa_di": 0.12231
+            "taxa_di": 0.12642
           },
           {
-            "dias_corridos": 1546,
-            "dias_uteis": 1056,
-            "taxa_di": 0.12232
+            "dias_corridos": 1578,
+            "dias_uteis": 1079,
+            "taxa_di": 0.12643
           },
           {
-            "dias_corridos": 1592,
-            "dias_uteis": 1088,
-            "taxa_di": 0.12235
+            "dias_corridos": 1608,
+            "dias_uteis": 1099,
+            "taxa_di": 0.12643
           },
           {
-            "dias_corridos": 1622,
+            "dias_corridos": 1621,
             "dias_uteis": 1108,
-            "taxa_di": 0.12237
+            "taxa_di": 0.12643
           },
           {
-            "dias_corridos": 1635,
-            "dias_uteis": 1117,
-            "taxa_di": 0.12238
+            "dias_corridos": 1665,
+            "dias_uteis": 1137,
+            "taxa_di": 0.12647
           },
           {
-            "dias_corridos": 1679,
-            "dias_uteis": 1146,
-            "taxa_di": 0.12247
+            "dias_corridos": 1683,
+            "dias_uteis": 1149,
+            "taxa_di": 0.12649
           },
           {
-            "dias_corridos": 1697,
-            "dias_uteis": 1158,
-            "taxa_di": 0.1225
+            "dias_corridos": 1699,
+            "dias_uteis": 1160,
+            "taxa_di": 0.12651
           },
           {
-            "dias_corridos": 1713,
+            "dias_corridos": 1712,
             "dias_uteis": 1169,
-            "taxa_di": 0.12253
+            "taxa_di": 0.12652
           },
           {
-            "dias_corridos": 1726,
-            "dias_uteis": 1178,
-            "taxa_di": 0.12256
+            "dias_corridos": 1757,
+            "dias_uteis": 1202,
+            "taxa_di": 0.12661
           },
           {
-            "dias_corridos": 1771,
-            "dias_uteis": 1211,
-            "taxa_di": 0.12264
+            "dias_corridos": 1774,
+            "dias_uteis": 1213,
+            "taxa_di": 0.12664
           },
           {
-            "dias_corridos": 1788,
-            "dias_uteis": 1222,
-            "taxa_di": 0.12266
+            "dias_corridos": 1790,
+            "dias_uteis": 1225,
+            "taxa_di": 0.12667
           },
           {
             "dias_corridos": 1802,
-            "dias_uteis": 1232,
-            "taxa_di": 0.12268
+            "dias_uteis": 1233,
+            "taxa_di": 0.12669
           },
           {
             "dias_corridos": 1804,
-            "dias_uteis": 1234,
-            "taxa_di": 0.12269
+            "dias_uteis": 1235,
+            "taxa_di": 0.12669
           },
           {
-            "dias_corridos": 1818,
-            "dias_uteis": 1244,
-            "taxa_di": 0.12271
+            "dias_corridos": 1851,
+            "dias_uteis": 1268,
+            "taxa_di": 0.12683
           },
           {
             "dias_corridos": 1865,
             "dias_uteis": 1277,
-            "taxa_di": 0.12288
+            "taxa_di": 0.12686
           },
           {
-            "dias_corridos": 1879,
-            "dias_uteis": 1286,
-            "taxa_di": 0.12292
+            "dias_corridos": 1881,
+            "dias_uteis": 1289,
+            "taxa_di": 0.12691
           },
           {
-            "dias_corridos": 1895,
-            "dias_uteis": 1298,
-            "taxa_di": 0.12298
+            "dias_corridos": 1897,
+            "dias_uteis": 1299,
+            "taxa_di": 0.12695
           },
           {
-            "dias_corridos": 1911,
-            "dias_uteis": 1308,
-            "taxa_di": 0.12303
+            "dias_corridos": 1942,
+            "dias_uteis": 1328,
+            "taxa_di": 0.12701
           },
           {
-            "dias_corridos": 1956,
-            "dias_uteis": 1337,
-            "taxa_di": 0.12309
+            "dias_corridos": 2033,
+            "dias_uteis": 1391,
+            "taxa_di": 0.12713
           },
           {
-            "dias_corridos": 2047,
-            "dias_uteis": 1400,
-            "taxa_di": 0.1232
+            "dias_corridos": 2124,
+            "dias_uteis": 1455,
+            "taxa_di": 0.12723
           },
           {
-            "dias_corridos": 2138,
-            "dias_uteis": 1464,
-            "taxa_di": 0.1233
-          },
-          {
-            "dias_corridos": 2161,
+            "dias_corridos": 2160,
             "dias_uteis": 1480,
-            "taxa_di": 0.12332
+            "taxa_di": 0.12727
           },
           {
-            "dias_corridos": 2230,
-            "dias_uteis": 1526,
-            "taxa_di": 0.12339
+            "dias_corridos": 2216,
+            "dias_uteis": 1517,
+            "taxa_di": 0.12733
           },
           {
-            "dias_corridos": 2278,
-            "dias_uteis": 1560,
-            "taxa_di": 0.12344
+            "dias_corridos": 2264,
+            "dias_uteis": 1551,
+            "taxa_di": 0.12738
           },
           {
-            "dias_corridos": 2321,
-            "dias_uteis": 1591,
-            "taxa_di": 0.12345
+            "dias_corridos": 2307,
+            "dias_uteis": 1582,
+            "taxa_di": 0.1274
           },
           {
-            "dias_corridos": 2411,
-            "dias_uteis": 1651,
-            "taxa_di": 0.12346
+            "dias_corridos": 2397,
+            "dias_uteis": 1642,
+            "taxa_di": 0.12742
           },
           {
-            "dias_corridos": 2502,
-            "dias_uteis": 1715,
-            "taxa_di": 0.12347
+            "dias_corridos": 2488,
+            "dias_uteis": 1706,
+            "taxa_di": 0.12745
           },
           {
             "dias_corridos": 2520,
             "dias_uteis": 1729,
-            "taxa_di": 0.12347
+            "taxa_di": 0.12746
           },
           {
-            "dias_corridos": 2595,
-            "dias_uteis": 1778,
-            "taxa_di": 0.12348
+            "dias_corridos": 2581,
+            "dias_uteis": 1769,
+            "taxa_di": 0.12748
           },
           {
-            "dias_corridos": 2642,
-            "dias_uteis": 1811,
-            "taxa_di": 0.12348
+            "dias_corridos": 2628,
+            "dias_uteis": 1802,
+            "taxa_di": 0.12749
           },
           {
-            "dias_corridos": 2686,
-            "dias_uteis": 1843,
-            "taxa_di": 0.12348
+            "dias_corridos": 2672,
+            "dias_uteis": 1834,
+            "taxa_di": 0.12748
           },
           {
-            "dias_corridos": 2775,
-            "dias_uteis": 1901,
-            "taxa_di": 0.12347
+            "dias_corridos": 2761,
+            "dias_uteis": 1892,
+            "taxa_di": 0.12747
           },
           {
-            "dias_corridos": 2867,
-            "dias_uteis": 1966,
-            "taxa_di": 0.12346
+            "dias_corridos": 2853,
+            "dias_uteis": 1957,
+            "taxa_di": 0.12746
           },
           {
             "dias_corridos": 2880,
             "dias_uteis": 1975,
-            "taxa_di": 0.12346
+            "taxa_di": 0.12746
           },
           {
-            "dias_corridos": 2960,
-            "dias_uteis": 2029,
-            "taxa_di": 0.12345
+            "dias_corridos": 2946,
+            "dias_uteis": 2020,
+            "taxa_di": 0.12745
           },
           {
-            "dias_corridos": 3007,
-            "dias_uteis": 2059,
-            "taxa_di": 0.12345
+            "dias_corridos": 2993,
+            "dias_uteis": 2050,
+            "taxa_di": 0.12745
           },
           {
-            "dias_corridos": 3051,
-            "dias_uteis": 2089,
-            "taxa_di": 0.12343
+            "dias_corridos": 3037,
+            "dias_uteis": 2080,
+            "taxa_di": 0.12742
           },
           {
-            "dias_corridos": 3140,
-            "dias_uteis": 2150,
-            "taxa_di": 0.12339
+            "dias_corridos": 3126,
+            "dias_uteis": 2141,
+            "taxa_di": 0.12736
           },
           {
-            "dias_corridos": 3232,
-            "dias_uteis": 2215,
-            "taxa_di": 0.12335
+            "dias_corridos": 3218,
+            "dias_uteis": 2206,
+            "taxa_di": 0.12731
           },
           {
             "dias_corridos": 3240,
-            "dias_uteis": 2221,
-            "taxa_di": 0.12334
+            "dias_uteis": 2222,
+            "taxa_di": 0.12729
           },
           {
-            "dias_corridos": 3325,
-            "dias_uteis": 2278,
-            "taxa_di": 0.12331
+            "dias_corridos": 3311,
+            "dias_uteis": 2269,
+            "taxa_di": 0.12725
           },
           {
-            "dias_corridos": 3372,
-            "dias_uteis": 2308,
-            "taxa_di": 0.12329
+            "dias_corridos": 3358,
+            "dias_uteis": 2299,
+            "taxa_di": 0.12723
           },
           {
-            "dias_corridos": 3416,
-            "dias_uteis": 2340,
-            "taxa_di": 0.12333
+            "dias_corridos": 3402,
+            "dias_uteis": 2331,
+            "taxa_di": 0.12726
           },
           {
-            "dias_corridos": 3506,
-            "dias_uteis": 2399,
-            "taxa_di": 0.1234
+            "dias_corridos": 3492,
+            "dias_uteis": 2390,
+            "taxa_di": 0.12731
           },
           {
-            "dias_corridos": 3598,
-            "dias_uteis": 2464,
-            "taxa_di": 0.12348
+            "dias_corridos": 3584,
+            "dias_uteis": 2455,
+            "taxa_di": 0.12736
           },
           {
             "dias_corridos": 3601,
-            "dias_uteis": 2465,
-            "taxa_di": 0.12348
+            "dias_uteis": 2466,
+            "taxa_di": 0.12737
           },
           {
-            "dias_corridos": 3692,
-            "dias_uteis": 2530,
-            "taxa_di": 0.12355
+            "dias_corridos": 3678,
+            "dias_uteis": 2521,
+            "taxa_di": 0.12741
           },
           {
-            "dias_corridos": 3738,
-            "dias_uteis": 2561,
-            "taxa_di": 0.12358
+            "dias_corridos": 3724,
+            "dias_uteis": 2552,
+            "taxa_di": 0.12743
           },
           {
-            "dias_corridos": 3785,
-            "dias_uteis": 2592,
-            "taxa_di": 0.12359
+            "dias_corridos": 3771,
+            "dias_uteis": 2583,
+            "taxa_di": 0.12743
           },
           {
-            "dias_corridos": 3871,
-            "dias_uteis": 2651,
-            "taxa_di": 0.1236
+            "dias_corridos": 3857,
+            "dias_uteis": 2642,
+            "taxa_di": 0.12742
+          },
+          {
+            "dias_corridos": 3951,
+            "dias_uteis": 2707,
+            "taxa_di": 0.12741
           },
           {
             "dias_corridos": 3960,
-            "dias_uteis": 2713,
-            "taxa_di": 0.12361
+            "dias_uteis": 2714,
+            "taxa_di": 0.12741
           },
           {
-            "dias_corridos": 3965,
-            "dias_uteis": 2716,
-            "taxa_di": 0.12361
+            "dias_corridos": 4042,
+            "dias_uteis": 2769,
+            "taxa_di": 0.1274
           },
           {
-            "dias_corridos": 4056,
-            "dias_uteis": 2778,
-            "taxa_di": 0.12362
+            "dias_corridos": 4091,
+            "dias_uteis": 2801,
+            "taxa_di": 0.1274
           },
           {
-            "dias_corridos": 4105,
-            "dias_uteis": 2810,
-            "taxa_di": 0.12363
+            "dias_corridos": 4133,
+            "dias_uteis": 2831,
+            "taxa_di": 0.12736
           },
           {
-            "dias_corridos": 4147,
-            "dias_uteis": 2840,
-            "taxa_di": 0.12359
+            "dias_corridos": 4224,
+            "dias_uteis": 2892,
+            "taxa_di": 0.12729
           },
           {
-            "dias_corridos": 4238,
-            "dias_uteis": 2901,
-            "taxa_di": 0.12352
+            "dias_corridos": 4315,
+            "dias_uteis": 2956,
+            "taxa_di": 0.12721
           },
           {
             "dias_corridos": 4322,
-            "dias_uteis": 2960,
-            "taxa_di": 0.12344
+            "dias_uteis": 2961,
+            "taxa_di": 0.1272
           },
           {
-            "dias_corridos": 4329,
-            "dias_uteis": 2965,
-            "taxa_di": 0.12344
+            "dias_corridos": 4407,
+            "dias_uteis": 3018,
+            "taxa_di": 0.12714
           },
           {
-            "dias_corridos": 4421,
-            "dias_uteis": 3027,
-            "taxa_di": 0.12337
+            "dias_corridos": 4455,
+            "dias_uteis": 3052,
+            "taxa_di": 0.1271
           },
           {
-            "dias_corridos": 4469,
-            "dias_uteis": 3061,
-            "taxa_di": 0.12333
+            "dias_corridos": 4498,
+            "dias_uteis": 3083,
+            "taxa_di": 0.12708
           },
           {
-            "dias_corridos": 4512,
-            "dias_uteis": 3092,
-            "taxa_di": 0.12331
+            "dias_corridos": 4588,
+            "dias_uteis": 3143,
+            "taxa_di": 0.12705
           },
           {
-            "dias_corridos": 4602,
-            "dias_uteis": 3152,
-            "taxa_di": 0.12328
+            "dias_corridos": 4679,
+            "dias_uteis": 3207,
+            "taxa_di": 0.12701
           },
           {
             "dias_corridos": 4680,
-            "dias_uteis": 3207,
-            "taxa_di": 0.12325
+            "dias_uteis": 3208,
+            "taxa_di": 0.12701
           },
           {
-            "dias_corridos": 4693,
-            "dias_uteis": 3216,
-            "taxa_di": 0.12324
+            "dias_corridos": 4772,
+            "dias_uteis": 3270,
+            "taxa_di": 0.12698
           },
           {
-            "dias_corridos": 4786,
-            "dias_uteis": 3279,
-            "taxa_di": 0.12321
+            "dias_corridos": 4819,
+            "dias_uteis": 3303,
+            "taxa_di": 0.12696
           },
           {
-            "dias_corridos": 4833,
-            "dias_uteis": 3312,
-            "taxa_di": 0.12319
+            "dias_corridos": 4863,
+            "dias_uteis": 3333,
+            "taxa_di": 0.12695
           },
           {
-            "dias_corridos": 4877,
-            "dias_uteis": 3342,
-            "taxa_di": 0.12318
-          },
-          {
-            "dias_corridos": 4967,
-            "dias_uteis": 3404,
-            "taxa_di": 0.12316
+            "dias_corridos": 4953,
+            "dias_uteis": 3395,
+            "taxa_di": 0.12693
           },
           {
             "dias_corridos": 5040,
-            "dias_uteis": 3456,
-            "taxa_di": 0.12314
+            "dias_uteis": 3457,
+            "taxa_di": 0.1269
           },
           {
-            "dias_corridos": 5059,
-            "dias_uteis": 3469,
-            "taxa_di": 0.12313
+            "dias_corridos": 5045,
+            "dias_uteis": 3460,
+            "taxa_di": 0.1269
           },
           {
-            "dias_corridos": 5152,
-            "dias_uteis": 3532,
-            "taxa_di": 0.12311
+            "dias_corridos": 5138,
+            "dias_uteis": 3523,
+            "taxa_di": 0.12688
           },
           {
-            "dias_corridos": 5199,
-            "dias_uteis": 3562,
-            "taxa_di": 0.1231
+            "dias_corridos": 5185,
+            "dias_uteis": 3553,
+            "taxa_di": 0.12687
           },
           {
-            "dias_corridos": 5243,
-            "dias_uteis": 3594,
-            "taxa_di": 0.12309
+            "dias_corridos": 5229,
+            "dias_uteis": 3585,
+            "taxa_di": 0.12686
           },
           {
-            "dias_corridos": 5332,
-            "dias_uteis": 3653,
-            "taxa_di": 0.12307
+            "dias_corridos": 5318,
+            "dias_uteis": 3644,
+            "taxa_di": 0.12684
           },
           {
             "dias_corridos": 5400,
-            "dias_uteis": 3700,
-            "taxa_di": 0.12306
+            "dias_uteis": 3701,
+            "taxa_di": 0.12682
           },
           {
-            "dias_corridos": 5424,
-            "dias_uteis": 3718,
-            "taxa_di": 0.12305
+            "dias_corridos": 5410,
+            "dias_uteis": 3709,
+            "taxa_di": 0.12682
           },
           {
-            "dias_corridos": 5519,
-            "dias_uteis": 3784,
-            "taxa_di": 0.12303
+            "dias_corridos": 5505,
+            "dias_uteis": 3775,
+            "taxa_di": 0.1268
           },
           {
             "dias_corridos": 5582,
-            "dias_uteis": 3826,
-            "taxa_di": 0.12302
+            "dias_uteis": 3827,
+            "taxa_di": 0.12678
           },
           {
-            "dias_corridos": 5612,
-            "dias_uteis": 3846,
-            "taxa_di": 0.12301
+            "dias_corridos": 5598,
+            "dias_uteis": 3837,
+            "taxa_di": 0.12678
           },
           {
-            "dias_corridos": 5697,
-            "dias_uteis": 3904,
-            "taxa_di": 0.123
+            "dias_corridos": 5683,
+            "dias_uteis": 3895,
+            "taxa_di": 0.12677
           },
           {
-            "dias_corridos": 5789,
-            "dias_uteis": 3969,
-            "taxa_di": 0.12298
+            "dias_corridos": 5775,
+            "dias_uteis": 3960,
+            "taxa_di": 0.12675
           },
           {
-            "dias_corridos": 5883,
-            "dias_uteis": 4035,
-            "taxa_di": 0.12296
+            "dias_corridos": 5869,
+            "dias_uteis": 4026,
+            "taxa_di": 0.12673
           },
           {
-            "dias_corridos": 5974,
-            "dias_uteis": 4095,
-            "taxa_di": 0.12294
+            "dias_corridos": 5960,
+            "dias_uteis": 4086,
+            "taxa_di": 0.12671
           },
           {
-            "dias_corridos": 6062,
-            "dias_uteis": 4156,
-            "taxa_di": 0.12293
+            "dias_corridos": 6048,
+            "dias_uteis": 4147,
+            "taxa_di": 0.1267
           },
           {
-            "dias_corridos": 6156,
-            "dias_uteis": 4221,
-            "taxa_di": 0.12291
+            "dias_corridos": 6142,
+            "dias_uteis": 4212,
+            "taxa_di": 0.12668
           },
           {
-            "dias_corridos": 6247,
-            "dias_uteis": 4283,
-            "taxa_di": 0.1229
+            "dias_corridos": 6233,
+            "dias_uteis": 4274,
+            "taxa_di": 0.12667
           },
           {
-            "dias_corridos": 6338,
-            "dias_uteis": 4345,
-            "taxa_di": 0.12289
+            "dias_corridos": 6324,
+            "dias_uteis": 4336,
+            "taxa_di": 0.12666
           },
           {
-            "dias_corridos": 6429,
-            "dias_uteis": 4406,
-            "taxa_di": 0.12287
+            "dias_corridos": 6415,
+            "dias_uteis": 4397,
+            "taxa_di": 0.12664
           },
           {
-            "dias_corridos": 6520,
-            "dias_uteis": 4470,
-            "taxa_di": 0.12286
+            "dias_corridos": 6506,
+            "dias_uteis": 4461,
+            "taxa_di": 0.12663
           },
           {
-            "dias_corridos": 6613,
-            "dias_uteis": 4533,
-            "taxa_di": 0.12284
+            "dias_corridos": 6599,
+            "dias_uteis": 4524,
+            "taxa_di": 0.12661
           },
           {
-            "dias_corridos": 6704,
-            "dias_uteis": 4598,
-            "taxa_di": 0.12283
+            "dias_corridos": 6690,
+            "dias_uteis": 4589,
+            "taxa_di": 0.1266
           },
           {
-            "dias_corridos": 6793,
-            "dias_uteis": 4656,
-            "taxa_di": 0.12282
+            "dias_corridos": 6779,
+            "dias_uteis": 4647,
+            "taxa_di": 0.12659
           },
           {
-            "dias_corridos": 6885,
-            "dias_uteis": 4721,
-            "taxa_di": 0.12281
+            "dias_corridos": 6871,
+            "dias_uteis": 4712,
+            "taxa_di": 0.12658
           },
           {
-            "dias_corridos": 7069,
-            "dias_uteis": 4844,
-            "taxa_di": 0.12278
+            "dias_corridos": 7055,
+            "dias_uteis": 4835,
+            "taxa_di": 0.12655
           },
           {
             "dias_corridos": 7200,
-            "dias_uteis": 4934,
-            "taxa_di": 0.12277
+            "dias_uteis": 4935,
+            "taxa_di": 0.12654
           },
           {
-            "dias_corridos": 7250,
-            "dias_uteis": 4970,
-            "taxa_di": 0.12276
+            "dias_corridos": 7236,
+            "dias_uteis": 4961,
+            "taxa_di": 0.12653
           },
           {
-            "dias_corridos": 7434,
-            "dias_uteis": 5095,
-            "taxa_di": 0.12274
+            "dias_corridos": 7420,
+            "dias_uteis": 5086,
+            "taxa_di": 0.12651
           },
           {
-            "dias_corridos": 7615,
-            "dias_uteis": 5219,
-            "taxa_di": 0.12272
+            "dias_corridos": 7601,
+            "dias_uteis": 5210,
+            "taxa_di": 0.12649
           },
           {
-            "dias_corridos": 7803,
-            "dias_uteis": 5347,
-            "taxa_di": 0.1227
+            "dias_corridos": 7789,
+            "dias_uteis": 5338,
+            "taxa_di": 0.12647
           },
           {
-            "dias_corridos": 7983,
-            "dias_uteis": 5471,
-            "taxa_di": 0.12268
+            "dias_corridos": 7969,
+            "dias_uteis": 5462,
+            "taxa_di": 0.12645
           },
           {
-            "dias_corridos": 8165,
-            "dias_uteis": 5595,
-            "taxa_di": 0.12267
+            "dias_corridos": 8151,
+            "dias_uteis": 5586,
+            "taxa_di": 0.12644
           },
           {
-            "dias_corridos": 8347,
-            "dias_uteis": 5720,
-            "taxa_di": 0.12265
+            "dias_corridos": 8333,
+            "dias_uteis": 5711,
+            "taxa_di": 0.12642
           },
           {
-            "dias_corridos": 8530,
-            "dias_uteis": 5847,
-            "taxa_di": 0.12263
+            "dias_corridos": 8516,
+            "dias_uteis": 5838,
+            "taxa_di": 0.1264
           },
           {
-            "dias_corridos": 8711,
-            "dias_uteis": 5971,
-            "taxa_di": 0.12262
+            "dias_corridos": 8697,
+            "dias_uteis": 5962,
+            "taxa_di": 0.12639
           },
           {
             "dias_corridos": 9000,
             "dias_uteis": 6169,
-            "taxa_di": 0.1226
+            "taxa_di": 0.12637
           },
           {
-            "dias_corridos": 10447,
-            "dias_uteis": 7160,
-            "taxa_di": 0.1225
+            "dias_corridos": 10433,
+            "dias_uteis": 7151,
+            "taxa_di": 0.12627
           },
           {
             "dias_corridos": 10800,
-            "dias_uteis": 7403,
-            "taxa_di": 0.12248
+            "dias_uteis": 7404,
+            "taxa_di": 0.12625
           },
           {
-            "dias_corridos": 12365,
-            "dias_uteis": 8477,
-            "taxa_di": 0.12241
+            "dias_corridos": 12351,
+            "dias_uteis": 8468,
+            "taxa_di": 0.12618
+          }
+        ]
+      },
+      "1 semana": {
+        "data": "2026-10-19",
+        "pontos": [
+          {
+            "dias_corridos": 1,
+            "dias_uteis": 1,
+            "taxa_di": 0.1365
+          },
+          {
+            "dias_corridos": 2,
+            "dias_uteis": 2,
+            "taxa_di": 0.13652
+          },
+          {
+            "dias_corridos": 7,
+            "dias_uteis": 5,
+            "taxa_di": 0.13653
+          },
+          {
+            "dias_corridos": 9,
+            "dias_uteis": 7,
+            "taxa_di": 0.13653
+          },
+          {
+            "dias_corridos": 10,
+            "dias_uteis": 8,
+            "taxa_di": 0.13653
+          },
+          {
+            "dias_corridos": 11,
+            "dias_uteis": 9,
+            "taxa_di": 0.13653
+          },
+          {
+            "dias_corridos": 15,
+            "dias_uteis": 10,
+            "taxa_di": 0.13653
+          },
+          {
+            "dias_corridos": 21,
+            "dias_uteis": 14,
+            "taxa_di": 0.13602
+          },
+          {
+            "dias_corridos": 28,
+            "dias_uteis": 19,
+            "taxa_di": 0.13569
+          },
+          {
+            "dias_corridos": 29,
+            "dias_uteis": 20,
+            "taxa_di": 0.13564
+          },
+          {
+            "dias_corridos": 30,
+            "dias_uteis": 21,
+            "taxa_di": 0.1356
+          },
+          {
+            "dias_corridos": 31,
+            "dias_uteis": 22,
+            "taxa_di": 0.13556
+          },
+          {
+            "dias_corridos": 38,
+            "dias_uteis": 26,
+            "taxa_di": 0.13544
+          },
+          {
+            "dias_corridos": 39,
+            "dias_uteis": 27,
+            "taxa_di": 0.13542
+          },
+          {
+            "dias_corridos": 42,
+            "dias_uteis": 28,
+            "taxa_di": 0.13539
+          },
+          {
+            "dias_corridos": 43,
+            "dias_uteis": 29,
+            "taxa_di": 0.13537
+          },
+          {
+            "dias_corridos": 56,
+            "dias_uteis": 38,
+            "taxa_di": 0.13509
+          },
+          {
+            "dias_corridos": 57,
+            "dias_uteis": 39,
+            "taxa_di": 0.13507
+          },
+          {
+            "dias_corridos": 58,
+            "dias_uteis": 40,
+            "taxa_di": 0.13504
+          },
+          {
+            "dias_corridos": 59,
+            "dias_uteis": 41,
+            "taxa_di": 0.13502
+          },
+          {
+            "dias_corridos": 60,
+            "dias_uteis": 42,
+            "taxa_di": 0.135
+          },
+          {
+            "dias_corridos": 70,
+            "dias_uteis": 47,
+            "taxa_di": 0.13492
+          },
+          {
+            "dias_corridos": 71,
+            "dias_uteis": 48,
+            "taxa_di": 0.1349
+          },
+          {
+            "dias_corridos": 72,
+            "dias_uteis": 49,
+            "taxa_di": 0.13489
+          },
+          {
+            "dias_corridos": 77,
+            "dias_uteis": 51,
+            "taxa_di": 0.13486
+          },
+          {
+            "dias_corridos": 88,
+            "dias_uteis": 60,
+            "taxa_di": 0.13463
+          },
+          {
+            "dias_corridos": 91,
+            "dias_uteis": 61,
+            "taxa_di": 0.13461
+          },
+          {
+            "dias_corridos": 93,
+            "dias_uteis": 63,
+            "taxa_di": 0.13457
+          },
+          {
+            "dias_corridos": 94,
+            "dias_uteis": 64,
+            "taxa_di": 0.13455
+          },
+          {
+            "dias_corridos": 102,
+            "dias_uteis": 70,
+            "taxa_di": 0.13445
+          },
+          {
+            "dias_corridos": 105,
+            "dias_uteis": 71,
+            "taxa_di": 0.13443
+          },
+          {
+            "dias_corridos": 116,
+            "dias_uteis": 78,
+            "taxa_di": 0.13425
+          },
+          {
+            "dias_corridos": 119,
+            "dias_uteis": 79,
+            "taxa_di": 0.13422
+          },
+          {
+            "dias_corridos": 120,
+            "dias_uteis": 80,
+            "taxa_di": 0.1342
+          },
+          {
+            "dias_corridos": 121,
+            "dias_uteis": 81,
+            "taxa_di": 0.13418
+          },
+          {
+            "dias_corridos": 123,
+            "dias_uteis": 83,
+            "taxa_di": 0.13414
+          },
+          {
+            "dias_corridos": 128,
+            "dias_uteis": 86,
+            "taxa_di": 0.13408
+          },
+          {
+            "dias_corridos": 129,
+            "dias_uteis": 87,
+            "taxa_di": 0.13406
+          },
+          {
+            "dias_corridos": 130,
+            "dias_uteis": 88,
+            "taxa_di": 0.13404
+          },
+          {
+            "dias_corridos": 133,
+            "dias_uteis": 89,
+            "taxa_di": 0.13402
+          },
+          {
+            "dias_corridos": 147,
+            "dias_uteis": 99,
+            "taxa_di": 0.13375
+          },
+          {
+            "dias_corridos": 148,
+            "dias_uteis": 100,
+            "taxa_di": 0.13373
+          },
+          {
+            "dias_corridos": 149,
+            "dias_uteis": 101,
+            "taxa_di": 0.1337
+          },
+          {
+            "dias_corridos": 150,
+            "dias_uteis": 102,
+            "taxa_di": 0.13368
+          },
+          {
+            "dias_corridos": 151,
+            "dias_uteis": 103,
+            "taxa_di": 0.13366
+          },
+          {
+            "dias_corridos": 154,
+            "dias_uteis": 104,
+            "taxa_di": 0.13363
+          },
+          {
+            "dias_corridos": 161,
+            "dias_uteis": 108,
+            "taxa_di": 0.13355
+          },
+          {
+            "dias_corridos": 163,
+            "dias_uteis": 110,
+            "taxa_di": 0.13351
+          },
+          {
+            "dias_corridos": 164,
+            "dias_uteis": 111,
+            "taxa_di": 0.13349
+          },
+          {
+            "dias_corridos": 177,
+            "dias_uteis": 120,
+            "taxa_di": 0.13329
+          },
+          {
+            "dias_corridos": 178,
+            "dias_uteis": 121,
+            "taxa_di": 0.13327
+          },
+          {
+            "dias_corridos": 179,
+            "dias_uteis": 122,
+            "taxa_di": 0.13325
+          },
+          {
+            "dias_corridos": 182,
+            "dias_uteis": 123,
+            "taxa_di": 0.13323
+          },
+          {
+            "dias_corridos": 191,
+            "dias_uteis": 129,
+            "taxa_di": 0.13312
+          },
+          {
+            "dias_corridos": 192,
+            "dias_uteis": 130,
+            "taxa_di": 0.1331
+          },
+          {
+            "dias_corridos": 193,
+            "dias_uteis": 131,
+            "taxa_di": 0.13309
+          },
+          {
+            "dias_corridos": 196,
+            "dias_uteis": 132,
+            "taxa_di": 0.13307
+          },
+          {
+            "dias_corridos": 210,
+            "dias_uteis": 142,
+            "taxa_di": 0.13282
+          },
+          {
+            "dias_corridos": 213,
+            "dias_uteis": 145,
+            "taxa_di": 0.13275
+          },
+          {
+            "dias_corridos": 224,
+            "dias_uteis": 151,
+            "taxa_di": 0.13262
+          },
+          {
+            "dias_corridos": 225,
+            "dias_uteis": 152,
+            "taxa_di": 0.1326
+          },
+          {
+            "dias_corridos": 240,
+            "dias_uteis": 163,
+            "taxa_di": 0.13239
+          },
+          {
+            "dias_corridos": 242,
+            "dias_uteis": 165,
+            "taxa_di": 0.13235
+          },
+          {
+            "dias_corridos": 253,
+            "dias_uteis": 172,
+            "taxa_di": 0.13223
+          },
+          {
+            "dias_corridos": 254,
+            "dias_uteis": 173,
+            "taxa_di": 0.13222
+          },
+          {
+            "dias_corridos": 255,
+            "dias_uteis": 174,
+            "taxa_di": 0.1322
+          },
+          {
+            "dias_corridos": 269,
+            "dias_uteis": 184,
+            "taxa_di": 0.13189
+          },
+          {
+            "dias_corridos": 270,
+            "dias_uteis": 185,
+            "taxa_di": 0.13187
+          },
+          {
+            "dias_corridos": 283,
+            "dias_uteis": 194,
+            "taxa_di": 0.13162
+          },
+          {
+            "dias_corridos": 284,
+            "dias_uteis": 195,
+            "taxa_di": 0.1316
+          },
+          {
+            "dias_corridos": 287,
+            "dias_uteis": 196,
+            "taxa_di": 0.13157
+          },
+          {
+            "dias_corridos": 298,
+            "dias_uteis": 205,
+            "taxa_di": 0.13132
+          },
+          {
+            "dias_corridos": 301,
+            "dias_uteis": 206,
+            "taxa_di": 0.13129
+          },
+          {
+            "dias_corridos": 303,
+            "dias_uteis": 208,
+            "taxa_di": 0.13124
+          },
+          {
+            "dias_corridos": 315,
+            "dias_uteis": 216,
+            "taxa_di": 0.13104
+          },
+          {
+            "dias_corridos": 316,
+            "dias_uteis": 217,
+            "taxa_di": 0.13101
+          },
+          {
+            "dias_corridos": 317,
+            "dias_uteis": 218,
+            "taxa_di": 0.13099
+          },
+          {
+            "dias_corridos": 330,
+            "dias_uteis": 226,
+            "taxa_di": 0.13079
+          },
+          {
+            "dias_corridos": 331,
+            "dias_uteis": 227,
+            "taxa_di": 0.13077
+          },
+          {
+            "dias_corridos": 338,
+            "dias_uteis": 232,
+            "taxa_di": 0.13065
+          },
+          {
+            "dias_corridos": 346,
+            "dias_uteis": 238,
+            "taxa_di": 0.13052
+          },
+          {
+            "dias_corridos": 347,
+            "dias_uteis": 239,
+            "taxa_di": 0.1305
+          },
+          {
+            "dias_corridos": 359,
+            "dias_uteis": 246,
+            "taxa_di": 0.13024
+          },
+          {
+            "dias_corridos": 360,
+            "dias_uteis": 247,
+            "taxa_di": 0.13021
+          },
+          {
+            "dias_corridos": 374,
+            "dias_uteis": 257,
+            "taxa_di": 0.12987
+          },
+          {
+            "dias_corridos": 375,
+            "dias_uteis": 258,
+            "taxa_di": 0.12983
+          },
+          {
+            "dias_corridos": 378,
+            "dias_uteis": 259,
+            "taxa_di": 0.1298
+          },
+          {
+            "dias_corridos": 393,
+            "dias_uteis": 268,
+            "taxa_di": 0.12959
+          },
+          {
+            "dias_corridos": 407,
+            "dias_uteis": 278,
+            "taxa_di": 0.12937
+          },
+          {
+            "dias_corridos": 408,
+            "dias_uteis": 279,
+            "taxa_di": 0.12935
+          },
+          {
+            "dias_corridos": 420,
+            "dias_uteis": 287,
+            "taxa_di": 0.12918
+          },
+          {
+            "dias_corridos": 422,
+            "dias_uteis": 289,
+            "taxa_di": 0.12914
+          },
+          {
+            "dias_corridos": 428,
+            "dias_uteis": 293,
+            "taxa_di": 0.12906
+          },
+          {
+            "dias_corridos": 436,
+            "dias_uteis": 299,
+            "taxa_di": 0.12895
+          },
+          {
+            "dias_corridos": 437,
+            "dias_uteis": 300,
+            "taxa_di": 0.12893
+          },
+          {
+            "dias_corridos": 441,
+            "dias_uteis": 302,
+            "taxa_di": 0.12889
+          },
+          {
+            "dias_corridos": 450,
+            "dias_uteis": 309,
+            "taxa_di": 0.12877
+          },
+          {
+            "dias_corridos": 455,
+            "dias_uteis": 312,
+            "taxa_di": 0.12872
+          },
+          {
+            "dias_corridos": 469,
+            "dias_uteis": 322,
+            "taxa_di": 0.12857
+          },
+          {
+            "dias_corridos": 480,
+            "dias_uteis": 331,
+            "taxa_di": 0.12844
+          },
+          {
+            "dias_corridos": 484,
+            "dias_uteis": 333,
+            "taxa_di": 0.12841
+          },
+          {
+            "dias_corridos": 485,
+            "dias_uteis": 334,
+            "taxa_di": 0.1284
+          },
+          {
+            "dias_corridos": 494,
+            "dias_uteis": 341,
+            "taxa_di": 0.1283
+          },
+          {
+            "dias_corridos": 511,
+            "dias_uteis": 350,
+            "taxa_di": 0.12818
+          },
+          {
+            "dias_corridos": 513,
+            "dias_uteis": 352,
+            "taxa_di": 0.12816
+          },
+          {
+            "dias_corridos": 521,
+            "dias_uteis": 358,
+            "taxa_di": 0.12808
+          },
+          {
+            "dias_corridos": 529,
+            "dias_uteis": 364,
+            "taxa_di": 0.12801
+          },
+          {
+            "dias_corridos": 532,
+            "dias_uteis": 365,
+            "taxa_di": 0.128
+          },
+          {
+            "dias_corridos": 540,
+            "dias_uteis": 371,
+            "taxa_di": 0.12794
+          },
+          {
+            "dias_corridos": 541,
+            "dias_uteis": 372,
+            "taxa_di": 0.12793
+          },
+          {
+            "dias_corridos": 556,
+            "dias_uteis": 381,
+            "taxa_di": 0.12785
+          },
+          {
+            "dias_corridos": 570,
+            "dias_uteis": 390,
+            "taxa_di": 0.12777
+          },
+          {
+            "dias_corridos": 574,
+            "dias_uteis": 392,
+            "taxa_di": 0.12775
+          },
+          {
+            "dias_corridos": 591,
+            "dias_uteis": 405,
+            "taxa_di": 0.12764
+          },
+          {
+            "dias_corridos": 602,
+            "dias_uteis": 412,
+            "taxa_di": 0.12759
+          },
+          {
+            "dias_corridos": 604,
+            "dias_uteis": 414,
+            "taxa_di": 0.12757
+          },
+          {
+            "dias_corridos": 611,
+            "dias_uteis": 418,
+            "taxa_di": 0.12754
+          },
+          {
+            "dias_corridos": 623,
+            "dias_uteis": 426,
+            "taxa_di": 0.12748
+          },
+          {
+            "dias_corridos": 630,
+            "dias_uteis": 431,
+            "taxa_di": 0.12746
+          },
+          {
+            "dias_corridos": 660,
+            "dias_uteis": 453,
+            "taxa_di": 0.12739
+          },
+          {
+            "dias_corridos": 666,
+            "dias_uteis": 457,
+            "taxa_di": 0.12738
+          },
+          {
+            "dias_corridos": 667,
+            "dias_uteis": 458,
+            "taxa_di": 0.12738
+          },
+          {
+            "dias_corridos": 683,
+            "dias_uteis": 470,
+            "taxa_di": 0.12734
+          },
+          {
+            "dias_corridos": 690,
+            "dias_uteis": 474,
+            "taxa_di": 0.12733
+          },
+          {
+            "dias_corridos": 702,
+            "dias_uteis": 482,
+            "taxa_di": 0.12731
+          },
+          {
+            "dias_corridos": 714,
+            "dias_uteis": 490,
+            "taxa_di": 0.12729
+          },
+          {
+            "dias_corridos": 721,
+            "dias_uteis": 495,
+            "taxa_di": 0.12728
+          },
+          {
+            "dias_corridos": 730,
+            "dias_uteis": 501,
+            "taxa_di": 0.12726
+          },
+          {
+            "dias_corridos": 744,
+            "dias_uteis": 511,
+            "taxa_di": 0.12724
+          },
+          {
+            "dias_corridos": 750,
+            "dias_uteis": 514,
+            "taxa_di": 0.12723
+          },
+          {
+            "dias_corridos": 759,
+            "dias_uteis": 520,
+            "taxa_di": 0.12722
+          },
+          {
+            "dias_corridos": 774,
+            "dias_uteis": 530,
+            "taxa_di": 0.12719
+          },
+          {
+            "dias_corridos": 780,
+            "dias_uteis": 534,
+            "taxa_di": 0.12717
+          },
+          {
+            "dias_corridos": 786,
+            "dias_uteis": 538,
+            "taxa_di": 0.12716
+          },
+          {
+            "dias_corridos": 793,
+            "dias_uteis": 543,
+            "taxa_di": 0.12714
+          },
+          {
+            "dias_corridos": 806,
+            "dias_uteis": 550,
+            "taxa_di": 0.12711
+          },
+          {
+            "dias_corridos": 812,
+            "dias_uteis": 554,
+            "taxa_di": 0.12713
+          },
+          {
+            "dias_corridos": 840,
+            "dias_uteis": 574,
+            "taxa_di": 0.12721
+          },
+          {
+            "dias_corridos": 850,
+            "dias_uteis": 580,
+            "taxa_di": 0.12723
+          },
+          {
+            "dias_corridos": 870,
+            "dias_uteis": 594,
+            "taxa_di": 0.12728
+          },
+          {
+            "dias_corridos": 896,
+            "dias_uteis": 611,
+            "taxa_di": 0.12734
+          },
+          {
+            "dias_corridos": 900,
+            "dias_uteis": 615,
+            "taxa_di": 0.12736
+          },
+          {
+            "dias_corridos": 931,
+            "dias_uteis": 635,
+            "taxa_di": 0.12744
+          },
+          {
+            "dias_corridos": 939,
+            "dias_uteis": 641,
+            "taxa_di": 0.12747
+          },
+          {
+            "dias_corridos": 960,
+            "dias_uteis": 655,
+            "taxa_di": 0.12752
+          },
+          {
+            "dias_corridos": 987,
+            "dias_uteis": 674,
+            "taxa_di": 0.12759
+          },
+          {
+            "dias_corridos": 990,
+            "dias_uteis": 677,
+            "taxa_di": 0.12759
+          },
+          {
+            "dias_corridos": 1017,
+            "dias_uteis": 696,
+            "taxa_di": 0.1276
+          },
+          {
+            "dias_corridos": 1022,
+            "dias_uteis": 699,
+            "taxa_di": 0.1276
+          },
+          {
+            "dias_corridos": 1031,
+            "dias_uteis": 706,
+            "taxa_di": 0.1276
+          },
+          {
+            "dias_corridos": 1050,
+            "dias_uteis": 719,
+            "taxa_di": 0.1276
+          },
+          {
+            "dias_corridos": 1078,
+            "dias_uteis": 738,
+            "taxa_di": 0.12761
+          },
+          {
+            "dias_corridos": 1080,
+            "dias_uteis": 740,
+            "taxa_di": 0.1276
+          },
+          {
+            "dias_corridos": 1109,
+            "dias_uteis": 760,
+            "taxa_di": 0.12748
+          },
+          {
+            "dias_corridos": 1113,
+            "dias_uteis": 761,
+            "taxa_di": 0.12748
+          },
+          {
+            "dias_corridos": 1124,
+            "dias_uteis": 769,
+            "taxa_di": 0.1275
+          },
+          {
+            "dias_corridos": 1141,
+            "dias_uteis": 779,
+            "taxa_di": 0.12753
+          },
+          {
+            "dias_corridos": 1171,
+            "dias_uteis": 799,
+            "taxa_di": 0.12758
+          },
+          {
+            "dias_corridos": 1200,
+            "dias_uteis": 820,
+            "taxa_di": 0.12758
+          },
+          {
+            "dias_corridos": 1215,
+            "dias_uteis": 831,
+            "taxa_di": 0.12757
+          },
+          {
+            "dias_corridos": 1260,
+            "dias_uteis": 860,
+            "taxa_di": 0.12757
+          },
+          {
+            "dias_corridos": 1304,
+            "dias_uteis": 890,
+            "taxa_di": 0.12767
+          },
+          {
+            "dias_corridos": 1351,
+            "dias_uteis": 922,
+            "taxa_di": 0.12777
+          },
+          {
+            "dias_corridos": 1396,
+            "dias_uteis": 955,
+            "taxa_di": 0.12777
+          },
+          {
+            "dias_corridos": 1430,
+            "dias_uteis": 979,
+            "taxa_di": 0.12777
+          },
+          {
+            "dias_corridos": 1442,
+            "dias_uteis": 987,
+            "taxa_di": 0.12777
+          },
+          {
+            "dias_corridos": 1443,
+            "dias_uteis": 988,
+            "taxa_di": 0.12777
+          },
+          {
+            "dias_corridos": 1491,
+            "dias_uteis": 1021,
+            "taxa_di": 0.12784
+          },
+          {
+            "dias_corridos": 1521,
+            "dias_uteis": 1042,
+            "taxa_di": 0.12788
+          },
+          {
+            "dias_corridos": 1536,
+            "dias_uteis": 1051,
+            "taxa_di": 0.1279
+          },
+          {
+            "dias_corridos": 1582,
+            "dias_uteis": 1083,
+            "taxa_di": 0.12793
+          },
+          {
+            "dias_corridos": 1612,
+            "dias_uteis": 1103,
+            "taxa_di": 0.12794
+          },
+          {
+            "dias_corridos": 1625,
+            "dias_uteis": 1112,
+            "taxa_di": 0.12795
+          },
+          {
+            "dias_corridos": 1669,
+            "dias_uteis": 1141,
+            "taxa_di": 0.12804
+          },
+          {
+            "dias_corridos": 1687,
+            "dias_uteis": 1153,
+            "taxa_di": 0.12807
+          },
+          {
+            "dias_corridos": 1703,
+            "dias_uteis": 1164,
+            "taxa_di": 0.1281
+          },
+          {
+            "dias_corridos": 1716,
+            "dias_uteis": 1173,
+            "taxa_di": 0.12813
+          },
+          {
+            "dias_corridos": 1761,
+            "dias_uteis": 1206,
+            "taxa_di": 0.12821
+          },
+          {
+            "dias_corridos": 1778,
+            "dias_uteis": 1217,
+            "taxa_di": 0.12823
+          },
+          {
+            "dias_corridos": 1794,
+            "dias_uteis": 1229,
+            "taxa_di": 0.12826
+          },
+          {
+            "dias_corridos": 1800,
+            "dias_uteis": 1233,
+            "taxa_di": 0.12827
+          },
+          {
+            "dias_corridos": 1808,
+            "dias_uteis": 1239,
+            "taxa_di": 0.12828
+          },
+          {
+            "dias_corridos": 1855,
+            "dias_uteis": 1272,
+            "taxa_di": 0.12845
+          },
+          {
+            "dias_corridos": 1869,
+            "dias_uteis": 1281,
+            "taxa_di": 0.1285
+          },
+          {
+            "dias_corridos": 1885,
+            "dias_uteis": 1293,
+            "taxa_di": 0.12856
+          },
+          {
+            "dias_corridos": 1901,
+            "dias_uteis": 1303,
+            "taxa_di": 0.12861
+          },
+          {
+            "dias_corridos": 1946,
+            "dias_uteis": 1332,
+            "taxa_di": 0.12866
+          },
+          {
+            "dias_corridos": 2037,
+            "dias_uteis": 1395,
+            "taxa_di": 0.12876
+          },
+          {
+            "dias_corridos": 2128,
+            "dias_uteis": 1459,
+            "taxa_di": 0.12886
+          },
+          {
+            "dias_corridos": 2160,
+            "dias_uteis": 1482,
+            "taxa_di": 0.12889
+          },
+          {
+            "dias_corridos": 2220,
+            "dias_uteis": 1521,
+            "taxa_di": 0.12895
+          },
+          {
+            "dias_corridos": 2268,
+            "dias_uteis": 1555,
+            "taxa_di": 0.12899
+          },
+          {
+            "dias_corridos": 2311,
+            "dias_uteis": 1586,
+            "taxa_di": 0.129
+          },
+          {
+            "dias_corridos": 2401,
+            "dias_uteis": 1646,
+            "taxa_di": 0.12902
+          },
+          {
+            "dias_corridos": 2492,
+            "dias_uteis": 1710,
+            "taxa_di": 0.12904
+          },
+          {
+            "dias_corridos": 2520,
+            "dias_uteis": 1729,
+            "taxa_di": 0.12904
+          },
+          {
+            "dias_corridos": 2585,
+            "dias_uteis": 1773,
+            "taxa_di": 0.12905
+          },
+          {
+            "dias_corridos": 2632,
+            "dias_uteis": 1806,
+            "taxa_di": 0.12906
+          },
+          {
+            "dias_corridos": 2676,
+            "dias_uteis": 1838,
+            "taxa_di": 0.12905
+          },
+          {
+            "dias_corridos": 2765,
+            "dias_uteis": 1896,
+            "taxa_di": 0.12904
+          },
+          {
+            "dias_corridos": 2857,
+            "dias_uteis": 1961,
+            "taxa_di": 0.12903
+          },
+          {
+            "dias_corridos": 2881,
+            "dias_uteis": 1978,
+            "taxa_di": 0.12903
+          },
+          {
+            "dias_corridos": 2950,
+            "dias_uteis": 2024,
+            "taxa_di": 0.12902
+          },
+          {
+            "dias_corridos": 2997,
+            "dias_uteis": 2054,
+            "taxa_di": 0.12902
+          },
+          {
+            "dias_corridos": 3041,
+            "dias_uteis": 2084,
+            "taxa_di": 0.12899
+          },
+          {
+            "dias_corridos": 3130,
+            "dias_uteis": 2145,
+            "taxa_di": 0.12895
+          },
+          {
+            "dias_corridos": 3222,
+            "dias_uteis": 2210,
+            "taxa_di": 0.1289
+          },
+          {
+            "dias_corridos": 3241,
+            "dias_uteis": 2223,
+            "taxa_di": 0.12889
+          },
+          {
+            "dias_corridos": 3315,
+            "dias_uteis": 2273,
+            "taxa_di": 0.12885
+          },
+          {
+            "dias_corridos": 3362,
+            "dias_uteis": 2303,
+            "taxa_di": 0.12883
+          },
+          {
+            "dias_corridos": 3406,
+            "dias_uteis": 2335,
+            "taxa_di": 0.12886
+          },
+          {
+            "dias_corridos": 3496,
+            "dias_uteis": 2394,
+            "taxa_di": 0.12891
+          },
+          {
+            "dias_corridos": 3588,
+            "dias_uteis": 2459,
+            "taxa_di": 0.12897
+          },
+          {
+            "dias_corridos": 3600,
+            "dias_uteis": 2467,
+            "taxa_di": 0.12898
+          },
+          {
+            "dias_corridos": 3682,
+            "dias_uteis": 2525,
+            "taxa_di": 0.12903
+          },
+          {
+            "dias_corridos": 3728,
+            "dias_uteis": 2556,
+            "taxa_di": 0.12905
+          },
+          {
+            "dias_corridos": 3775,
+            "dias_uteis": 2587,
+            "taxa_di": 0.12905
+          },
+          {
+            "dias_corridos": 3861,
+            "dias_uteis": 2646,
+            "taxa_di": 0.12905
+          },
+          {
+            "dias_corridos": 3955,
+            "dias_uteis": 2711,
+            "taxa_di": 0.12905
+          },
+          {
+            "dias_corridos": 3962,
+            "dias_uteis": 2716,
+            "taxa_di": 0.12905
+          },
+          {
+            "dias_corridos": 4046,
+            "dias_uteis": 2773,
+            "taxa_di": 0.12905
+          },
+          {
+            "dias_corridos": 4095,
+            "dias_uteis": 2805,
+            "taxa_di": 0.12905
+          },
+          {
+            "dias_corridos": 4137,
+            "dias_uteis": 2835,
+            "taxa_di": 0.12901
+          },
+          {
+            "dias_corridos": 4228,
+            "dias_uteis": 2896,
+            "taxa_di": 0.12894
+          },
+          {
+            "dias_corridos": 4319,
+            "dias_uteis": 2960,
+            "taxa_di": 0.12886
+          },
+          {
+            "dias_corridos": 4320,
+            "dias_uteis": 2961,
+            "taxa_di": 0.12886
+          },
+          {
+            "dias_corridos": 4411,
+            "dias_uteis": 3022,
+            "taxa_di": 0.12879
+          },
+          {
+            "dias_corridos": 4459,
+            "dias_uteis": 3056,
+            "taxa_di": 0.12875
+          },
+          {
+            "dias_corridos": 4502,
+            "dias_uteis": 3087,
+            "taxa_di": 0.12873
+          },
+          {
+            "dias_corridos": 4592,
+            "dias_uteis": 3147,
+            "taxa_di": 0.1287
+          },
+          {
+            "dias_corridos": 4680,
+            "dias_uteis": 3210,
+            "taxa_di": 0.12866
+          },
+          {
+            "dias_corridos": 4683,
+            "dias_uteis": 3211,
+            "taxa_di": 0.12866
+          },
+          {
+            "dias_corridos": 4776,
+            "dias_uteis": 3274,
+            "taxa_di": 0.12863
+          },
+          {
+            "dias_corridos": 4823,
+            "dias_uteis": 3307,
+            "taxa_di": 0.12861
+          },
+          {
+            "dias_corridos": 4867,
+            "dias_uteis": 3337,
+            "taxa_di": 0.1286
+          },
+          {
+            "dias_corridos": 4957,
+            "dias_uteis": 3399,
+            "taxa_di": 0.12858
+          },
+          {
+            "dias_corridos": 5040,
+            "dias_uteis": 3457,
+            "taxa_di": 0.12855
+          },
+          {
+            "dias_corridos": 5049,
+            "dias_uteis": 3464,
+            "taxa_di": 0.12855
+          },
+          {
+            "dias_corridos": 5142,
+            "dias_uteis": 3527,
+            "taxa_di": 0.12853
+          },
+          {
+            "dias_corridos": 5189,
+            "dias_uteis": 3557,
+            "taxa_di": 0.12852
+          },
+          {
+            "dias_corridos": 5233,
+            "dias_uteis": 3589,
+            "taxa_di": 0.12851
+          },
+          {
+            "dias_corridos": 5322,
+            "dias_uteis": 3648,
+            "taxa_di": 0.12849
+          },
+          {
+            "dias_corridos": 5400,
+            "dias_uteis": 3703,
+            "taxa_di": 0.12847
+          },
+          {
+            "dias_corridos": 5414,
+            "dias_uteis": 3713,
+            "taxa_di": 0.12847
+          },
+          {
+            "dias_corridos": 5509,
+            "dias_uteis": 3779,
+            "taxa_di": 0.12845
+          },
+          {
+            "dias_corridos": 5580,
+            "dias_uteis": 3827,
+            "taxa_di": 0.12844
+          },
+          {
+            "dias_corridos": 5602,
+            "dias_uteis": 3841,
+            "taxa_di": 0.12843
+          },
+          {
+            "dias_corridos": 5687,
+            "dias_uteis": 3899,
+            "taxa_di": 0.12842
+          },
+          {
+            "dias_corridos": 5779,
+            "dias_uteis": 3964,
+            "taxa_di": 0.1284
+          },
+          {
+            "dias_corridos": 5873,
+            "dias_uteis": 4030,
+            "taxa_di": 0.12838
+          },
+          {
+            "dias_corridos": 5964,
+            "dias_uteis": 4090,
+            "taxa_di": 0.12836
+          },
+          {
+            "dias_corridos": 6052,
+            "dias_uteis": 4151,
+            "taxa_di": 0.12835
+          },
+          {
+            "dias_corridos": 6146,
+            "dias_uteis": 4216,
+            "taxa_di": 0.12833
+          },
+          {
+            "dias_corridos": 6237,
+            "dias_uteis": 4278,
+            "taxa_di": 0.12832
+          },
+          {
+            "dias_corridos": 6328,
+            "dias_uteis": 4340,
+            "taxa_di": 0.12831
+          },
+          {
+            "dias_corridos": 6419,
+            "dias_uteis": 4401,
+            "taxa_di": 0.12829
+          },
+          {
+            "dias_corridos": 6510,
+            "dias_uteis": 4465,
+            "taxa_di": 0.12828
+          },
+          {
+            "dias_corridos": 6603,
+            "dias_uteis": 4528,
+            "taxa_di": 0.12826
+          },
+          {
+            "dias_corridos": 6694,
+            "dias_uteis": 4593,
+            "taxa_di": 0.12825
+          },
+          {
+            "dias_corridos": 6783,
+            "dias_uteis": 4651,
+            "taxa_di": 0.12824
+          },
+          {
+            "dias_corridos": 6875,
+            "dias_uteis": 4716,
+            "taxa_di": 0.12823
+          },
+          {
+            "dias_corridos": 7059,
+            "dias_uteis": 4839,
+            "taxa_di": 0.1282
+          },
+          {
+            "dias_corridos": 7200,
+            "dias_uteis": 4937,
+            "taxa_di": 0.12819
+          },
+          {
+            "dias_corridos": 7240,
+            "dias_uteis": 4965,
+            "taxa_di": 0.12818
+          },
+          {
+            "dias_corridos": 7424,
+            "dias_uteis": 5090,
+            "taxa_di": 0.12816
+          },
+          {
+            "dias_corridos": 7605,
+            "dias_uteis": 5214,
+            "taxa_di": 0.12814
+          },
+          {
+            "dias_corridos": 7793,
+            "dias_uteis": 5342,
+            "taxa_di": 0.12812
+          },
+          {
+            "dias_corridos": 7973,
+            "dias_uteis": 5466,
+            "taxa_di": 0.1281
+          },
+          {
+            "dias_corridos": 8155,
+            "dias_uteis": 5590,
+            "taxa_di": 0.12809
+          },
+          {
+            "dias_corridos": 8337,
+            "dias_uteis": 5715,
+            "taxa_di": 0.12807
+          },
+          {
+            "dias_corridos": 8520,
+            "dias_uteis": 5842,
+            "taxa_di": 0.12805
+          },
+          {
+            "dias_corridos": 8701,
+            "dias_uteis": 5966,
+            "taxa_di": 0.12804
+          },
+          {
+            "dias_corridos": 9002,
+            "dias_uteis": 6171,
+            "taxa_di": 0.12802
+          },
+          {
+            "dias_corridos": 10437,
+            "dias_uteis": 7155,
+            "taxa_di": 0.12792
+          },
+          {
+            "dias_corridos": 10801,
+            "dias_uteis": 7405,
+            "taxa_di": 0.1279
+          },
+          {
+            "dias_corridos": 12355,
+            "dias_uteis": 8472,
+            "taxa_di": 0.12783
           }
         ]
       },
       "1 ano": {
-        "data": "2025-10-17",
+        "data": "2025-10-24",
         "pontos": [
           {
             "dias_corridos": 3,
@@ -3055,18 +3025,23 @@
             "taxa_di": 0.149
           },
           {
+            "dias_corridos": 5,
+            "dias_uteis": 3,
+            "taxa_di": 0.14901
+          },
+          {
+            "dias_corridos": 6,
+            "dias_uteis": 4,
+            "taxa_di": 0.14901
+          },
+          {
             "dias_corridos": 7,
             "dias_uteis": 5,
             "taxa_di": 0.14901
           },
           {
-            "dias_corridos": 12,
-            "dias_uteis": 8,
-            "taxa_di": 0.14901
-          },
-          {
-            "dias_corridos": 13,
-            "dias_uteis": 9,
+            "dias_corridos": 10,
+            "dias_uteis": 6,
             "taxa_di": 0.14901
           },
           {
@@ -3075,1329 +3050,1364 @@
             "taxa_di": 0.14901
           },
           {
-            "dias_corridos": 17,
-            "dias_uteis": 11,
+            "dias_corridos": 19,
+            "dias_uteis": 13,
             "taxa_di": 0.14901
           },
           {
             "dias_corridos": 21,
             "dias_uteis": 15,
+            "taxa_di": 0.14901
+          },
+          {
+            "dias_corridos": 24,
+            "dias_uteis": 16,
+            "taxa_di": 0.14901
+          },
+          {
+            "dias_corridos": 25,
+            "dias_uteis": 17,
             "taxa_di": 0.14901
           },
           {
             "dias_corridos": 26,
             "dias_uteis": 18,
-            "taxa_di": 0.149
+            "taxa_di": 0.14901
+          },
+          {
+            "dias_corridos": 28,
+            "dias_uteis": 19,
+            "taxa_di": 0.14901
           },
           {
             "dias_corridos": 31,
-            "dias_uteis": 21,
-            "taxa_di": 0.149
-          },
-          {
-            "dias_corridos": 32,
-            "dias_uteis": 22,
-            "taxa_di": 0.149
+            "dias_uteis": 20,
+            "taxa_di": 0.14901
           },
           {
             "dias_corridos": 33,
+            "dias_uteis": 22,
+            "taxa_di": 0.14901
+          },
+          {
+            "dias_corridos": 34,
             "dias_uteis": 23,
-            "taxa_di": 0.149
+            "taxa_di": 0.14901
           },
           {
             "dias_corridos": 35,
             "dias_uteis": 24,
-            "taxa_di": 0.149
+            "taxa_di": 0.14901
           },
           {
-            "dias_corridos": 40,
-            "dias_uteis": 27,
-            "taxa_di": 0.149
+            "dias_corridos": 38,
+            "dias_uteis": 25,
+            "taxa_di": 0.14901
           },
           {
-            "dias_corridos": 41,
-            "dias_uteis": 28,
-            "taxa_di": 0.149
+            "dias_corridos": 49,
+            "dias_uteis": 34,
+            "taxa_di": 0.14894
           },
           {
-            "dias_corridos": 42,
-            "dias_uteis": 29,
-            "taxa_di": 0.149
+            "dias_corridos": 52,
+            "dias_uteis": 35,
+            "taxa_di": 0.14894
           },
           {
-            "dias_corridos": 45,
-            "dias_uteis": 30,
-            "taxa_di": 0.149
+            "dias_corridos": 53,
+            "dias_uteis": 36,
+            "taxa_di": 0.14893
+          },
+          {
+            "dias_corridos": 54,
+            "dias_uteis": 37,
+            "taxa_di": 0.14893
+          },
+          {
+            "dias_corridos": 55,
+            "dias_uteis": 38,
+            "taxa_di": 0.14892
           },
           {
             "dias_corridos": 56,
             "dias_uteis": 39,
-            "taxa_di": 0.14897
-          },
-          {
-            "dias_corridos": 59,
-            "dias_uteis": 40,
-            "taxa_di": 0.14897
+            "taxa_di": 0.14892
           },
           {
             "dias_corridos": 60,
             "dias_uteis": 41,
-            "taxa_di": 0.14897
-          },
-          {
-            "dias_corridos": 61,
-            "dias_uteis": 42,
-            "taxa_di": 0.14897
-          },
-          {
-            "dias_corridos": 62,
-            "dias_uteis": 43,
-            "taxa_di": 0.14896
+            "taxa_di": 0.14891
           },
           {
             "dias_corridos": 63,
+            "dias_uteis": 43,
+            "taxa_di": 0.1489
+          },
+          {
+            "dias_corridos": 66,
             "dias_uteis": 44,
-            "taxa_di": 0.14896
+            "taxa_di": 0.1489
           },
           {
             "dias_corridos": 67,
-            "dias_uteis": 46,
-            "taxa_di": 0.14896
+            "dias_uteis": 45,
+            "taxa_di": 0.1489
           },
           {
             "dias_corridos": 70,
-            "dias_uteis": 48,
-            "taxa_di": 0.14896
+            "dias_uteis": 47,
+            "taxa_di": 0.14889
           },
           {
-            "dias_corridos": 73,
-            "dias_uteis": 49,
-            "taxa_di": 0.14895
+            "dias_corridos": 82,
+            "dias_uteis": 55,
+            "taxa_di": 0.14884
           },
           {
-            "dias_corridos": 74,
-            "dias_uteis": 50,
-            "taxa_di": 0.14895
+            "dias_corridos": 83,
+            "dias_uteis": 56,
+            "taxa_di": 0.14883
           },
           {
-            "dias_corridos": 77,
-            "dias_uteis": 52,
-            "taxa_di": 0.14895
+            "dias_corridos": 84,
+            "dias_uteis": 57,
+            "taxa_di": 0.14883
+          },
+          {
+            "dias_corridos": 87,
+            "dias_uteis": 58,
+            "taxa_di": 0.14882
           },
           {
             "dias_corridos": 89,
             "dias_uteis": 60,
-            "taxa_di": 0.14889
+            "taxa_di": 0.14881
           },
           {
             "dias_corridos": 90,
             "dias_uteis": 61,
-            "taxa_di": 0.14888
-          },
-          {
-            "dias_corridos": 91,
-            "dias_uteis": 62,
-            "taxa_di": 0.14887
-          },
-          {
-            "dias_corridos": 94,
-            "dias_uteis": 63,
-            "taxa_di": 0.14887
-          },
-          {
-            "dias_corridos": 96,
-            "dias_uteis": 65,
-            "taxa_di": 0.14885
-          },
-          {
-            "dias_corridos": 97,
-            "dias_uteis": 66,
-            "taxa_di": 0.14885
-          },
-          {
-            "dias_corridos": 105,
-            "dias_uteis": 72,
             "taxa_di": 0.14881
           },
           {
-            "dias_corridos": 108,
-            "dias_uteis": 73,
-            "taxa_di": 0.14881
+            "dias_corridos": 98,
+            "dias_uteis": 67,
+            "taxa_di": 0.14878
+          },
+          {
+            "dias_corridos": 101,
+            "dias_uteis": 68,
+            "taxa_di": 0.14878
+          },
+          {
+            "dias_corridos": 117,
+            "dias_uteis": 78,
+            "taxa_di": 0.14863
+          },
+          {
+            "dias_corridos": 118,
+            "dias_uteis": 79,
+            "taxa_di": 0.14861
+          },
+          {
+            "dias_corridos": 119,
+            "dias_uteis": 80,
+            "taxa_di": 0.1486
+          },
+          {
+            "dias_corridos": 122,
+            "dias_uteis": 81,
+            "taxa_di": 0.14859
           },
           {
             "dias_corridos": 124,
             "dias_uteis": 83,
-            "taxa_di": 0.14868
+            "taxa_di": 0.14856
           },
           {
             "dias_corridos": 125,
             "dias_uteis": 84,
-            "taxa_di": 0.14867
+            "taxa_di": 0.14855
           },
           {
             "dias_corridos": 126,
             "dias_uteis": 85,
-            "taxa_di": 0.14866
+            "taxa_di": 0.14854
           },
           {
-            "dias_corridos": 131,
-            "dias_uteis": 88,
-            "taxa_di": 0.14863
+            "dias_corridos": 129,
+            "dias_uteis": 86,
+            "taxa_di": 0.14853
           },
           {
-            "dias_corridos": 132,
-            "dias_uteis": 89,
-            "taxa_di": 0.14862
+            "dias_corridos": 143,
+            "dias_uteis": 96,
+            "taxa_di": 0.14825
           },
           {
-            "dias_corridos": 133,
-            "dias_uteis": 90,
-            "taxa_di": 0.14861
+            "dias_corridos": 144,
+            "dias_uteis": 97,
+            "taxa_di": 0.14823
           },
           {
-            "dias_corridos": 136,
-            "dias_uteis": 91,
-            "taxa_di": 0.1486
+            "dias_corridos": 145,
+            "dias_uteis": 98,
+            "taxa_di": 0.14821
+          },
+          {
+            "dias_corridos": 146,
+            "dias_uteis": 99,
+            "taxa_di": 0.14818
+          },
+          {
+            "dias_corridos": 147,
+            "dias_uteis": 100,
+            "taxa_di": 0.14816
           },
           {
             "dias_corridos": 150,
             "dias_uteis": 101,
-            "taxa_di": 0.14842
+            "taxa_di": 0.14814
           },
           {
-            "dias_corridos": 152,
-            "dias_uteis": 103,
-            "taxa_di": 0.14838
+            "dias_corridos": 158,
+            "dias_uteis": 107,
+            "taxa_di": 0.14801
           },
           {
-            "dias_corridos": 153,
-            "dias_uteis": 104,
-            "taxa_di": 0.14837
+            "dias_corridos": 159,
+            "dias_uteis": 108,
+            "taxa_di": 0.14799
           },
           {
-            "dias_corridos": 154,
-            "dias_uteis": 105,
-            "taxa_di": 0.14835
+            "dias_corridos": 173,
+            "dias_uteis": 117,
+            "taxa_di": 0.14769
           },
           {
-            "dias_corridos": 157,
-            "dias_uteis": 106,
-            "taxa_di": 0.14834
-          },
-          {
-            "dias_corridos": 165,
-            "dias_uteis": 112,
-            "taxa_di": 0.14825
-          },
-          {
-            "dias_corridos": 166,
-            "dias_uteis": 113,
-            "taxa_di": 0.14824
+            "dias_corridos": 174,
+            "dias_uteis": 118,
+            "taxa_di": 0.14766
           },
           {
             "dias_corridos": 180,
-            "dias_uteis": 122,
-            "taxa_di": 0.14804
+            "dias_uteis": 121,
+            "taxa_di": 0.14758
           },
           {
-            "dias_corridos": 181,
-            "dias_uteis": 123,
-            "taxa_di": 0.14802
+            "dias_corridos": 188,
+            "dias_uteis": 127,
+            "taxa_di": 0.14742
           },
           {
-            "dias_corridos": 195,
-            "dias_uteis": 132,
-            "taxa_di": 0.14785
+            "dias_corridos": 192,
+            "dias_uteis": 128,
+            "taxa_di": 0.14739
           },
           {
-            "dias_corridos": 199,
-            "dias_uteis": 133,
-            "taxa_di": 0.14783
+            "dias_corridos": 201,
+            "dias_uteis": 135,
+            "taxa_di": 0.14698
           },
           {
-            "dias_corridos": 208,
-            "dias_uteis": 140,
-            "taxa_di": 0.14751
+            "dias_corridos": 203,
+            "dias_uteis": 137,
+            "taxa_di": 0.14686
+          },
+          {
+            "dias_corridos": 209,
+            "dias_uteis": 141,
+            "taxa_di": 0.14665
           },
           {
             "dias_corridos": 210,
             "dias_uteis": 142,
-            "taxa_di": 0.14742
+            "taxa_di": 0.1466
           },
           {
-            "dias_corridos": 216,
-            "dias_uteis": 146,
-            "taxa_di": 0.14726
+            "dias_corridos": 217,
+            "dias_uteis": 147,
+            "taxa_di": 0.14636
           },
           {
-            "dias_corridos": 224,
-            "dias_uteis": 152,
-            "taxa_di": 0.14703
+            "dias_corridos": 220,
+            "dias_uteis": 148,
+            "taxa_di": 0.14631
           },
           {
-            "dias_corridos": 227,
-            "dias_uteis": 153,
-            "taxa_di": 0.14699
+            "dias_corridos": 236,
+            "dias_uteis": 159,
+            "taxa_di": 0.14569
+          },
+          {
+            "dias_corridos": 238,
+            "dias_uteis": 161,
+            "taxa_di": 0.14559
           },
           {
             "dias_corridos": 241,
             "dias_uteis": 162,
-            "taxa_di": 0.14658
+            "taxa_di": 0.14554
           },
           {
-            "dias_corridos": 243,
-            "dias_uteis": 164,
-            "taxa_di": 0.1465
+            "dias_corridos": 248,
+            "dias_uteis": 167,
+            "taxa_di": 0.14529
           },
           {
-            "dias_corridos": 245,
-            "dias_uteis": 166,
-            "taxa_di": 0.14642
+            "dias_corridos": 249,
+            "dias_uteis": 168,
+            "taxa_di": 0.14525
           },
           {
-            "dias_corridos": 255,
-            "dias_uteis": 172,
-            "taxa_di": 0.14618
+            "dias_corridos": 250,
+            "dias_uteis": 169,
+            "taxa_di": 0.1452
           },
           {
-            "dias_corridos": 256,
-            "dias_uteis": 173,
-            "taxa_di": 0.14615
-          },
-          {
-            "dias_corridos": 257,
-            "dias_uteis": 174,
-            "taxa_di": 0.14611
+            "dias_corridos": 264,
+            "dias_uteis": 179,
+            "taxa_di": 0.14465
           },
           {
             "dias_corridos": 270,
             "dias_uteis": 183,
-            "taxa_di": 0.14573
+            "taxa_di": 0.14445
           },
           {
-            "dias_corridos": 271,
-            "dias_uteis": 184,
-            "taxa_di": 0.14569
+            "dias_corridos": 272,
+            "dias_uteis": 185,
+            "taxa_di": 0.14435
           },
           {
             "dias_corridos": 279,
             "dias_uteis": 190,
-            "taxa_di": 0.14545
+            "taxa_di": 0.14411
           },
           {
-            "dias_corridos": 286,
-            "dias_uteis": 195,
-            "taxa_di": 0.14527
+            "dias_corridos": 280,
+            "dias_uteis": 191,
+            "taxa_di": 0.14407
           },
           {
-            "dias_corridos": 287,
-            "dias_uteis": 196,
-            "taxa_di": 0.14524
+            "dias_corridos": 283,
+            "dias_uteis": 192,
+            "taxa_di": 0.14402
           },
           {
-            "dias_corridos": 290,
-            "dias_uteis": 197,
-            "taxa_di": 0.1452
+            "dias_corridos": 292,
+            "dias_uteis": 199,
+            "taxa_di": 0.14359
           },
           {
-            "dias_corridos": 299,
-            "dias_uteis": 204,
-            "taxa_di": 0.14481
+            "dias_corridos": 297,
+            "dias_uteis": 202,
+            "taxa_di": 0.14341
           },
           {
             "dias_corridos": 300,
             "dias_uteis": 205,
-            "taxa_di": 0.14476
+            "taxa_di": 0.14324
           },
           {
-            "dias_corridos": 304,
-            "dias_uteis": 207,
-            "taxa_di": 0.14465
+            "dias_corridos": 308,
+            "dias_uteis": 211,
+            "taxa_di": 0.14291
           },
           {
-            "dias_corridos": 315,
-            "dias_uteis": 216,
-            "taxa_di": 0.1442
+            "dias_corridos": 311,
+            "dias_uteis": 212,
+            "taxa_di": 0.14286
           },
           {
-            "dias_corridos": 318,
-            "dias_uteis": 217,
-            "taxa_di": 0.14416
+            "dias_corridos": 312,
+            "dias_uteis": 213,
+            "taxa_di": 0.14281
           },
           {
-            "dias_corridos": 319,
-            "dias_uteis": 218,
-            "taxa_di": 0.14411
+            "dias_corridos": 326,
+            "dias_uteis": 222,
+            "taxa_di": 0.14225
+          },
+          {
+            "dias_corridos": 327,
+            "dias_uteis": 223,
+            "taxa_di": 0.1422
           },
           {
             "dias_corridos": 332,
             "dias_uteis": 226,
-            "taxa_di": 0.14369
+            "taxa_di": 0.14202
           },
           {
             "dias_corridos": 333,
             "dias_uteis": 227,
-            "taxa_di": 0.14364
+            "taxa_di": 0.14196
           },
           {
-            "dias_corridos": 334,
-            "dias_uteis": 228,
-            "taxa_di": 0.14359
+            "dias_corridos": 341,
+            "dias_uteis": 233,
+            "taxa_di": 0.14163
           },
           {
-            "dias_corridos": 340,
-            "dias_uteis": 232,
-            "taxa_di": 0.14339
+            "dias_corridos": 342,
+            "dias_uteis": 234,
+            "taxa_di": 0.14158
           },
           {
-            "dias_corridos": 348,
-            "dias_uteis": 238,
-            "taxa_di": 0.14311
+            "dias_corridos": 355,
+            "dias_uteis": 242,
+            "taxa_di": 0.1411
           },
           {
-            "dias_corridos": 349,
-            "dias_uteis": 239,
-            "taxa_di": 0.14306
+            "dias_corridos": 357,
+            "dias_uteis": 244,
+            "taxa_di": 0.14099
           },
           {
-            "dias_corridos": 361,
-            "dias_uteis": 246,
-            "taxa_di": 0.1427
+            "dias_corridos": 360,
+            "dias_uteis": 245,
+            "taxa_di": 0.14093
           },
           {
-            "dias_corridos": 362,
-            "dias_uteis": 247,
-            "taxa_di": 0.14265
+            "dias_corridos": 371,
+            "dias_uteis": 254,
+            "taxa_di": 0.14044
           },
           {
-            "dias_corridos": 364,
-            "dias_uteis": 249,
-            "taxa_di": 0.14255
+            "dias_corridos": 375,
+            "dias_uteis": 255,
+            "taxa_di": 0.14039
           },
           {
-            "dias_corridos": 378,
-            "dias_uteis": 259,
-            "taxa_di": 0.14208
-          },
-          {
-            "dias_corridos": 382,
-            "dias_uteis": 260,
-            "taxa_di": 0.14204
+            "dias_corridos": 388,
+            "dias_uteis": 264,
+            "taxa_di": 0.13986
           },
           {
             "dias_corridos": 390,
             "dias_uteis": 266,
-            "taxa_di": 0.14173
+            "taxa_di": 0.13975
           },
           {
-            "dias_corridos": 395,
-            "dias_uteis": 269,
-            "taxa_di": 0.14158
+            "dias_corridos": 391,
+            "dias_uteis": 267,
+            "taxa_di": 0.1397
           },
           {
-            "dias_corridos": 397,
-            "dias_uteis": 271,
-            "taxa_di": 0.14149
+            "dias_corridos": 402,
+            "dias_uteis": 273,
+            "taxa_di": 0.13937
           },
           {
-            "dias_corridos": 398,
-            "dias_uteis": 272,
-            "taxa_di": 0.14144
+            "dias_corridos": 403,
+            "dias_uteis": 274,
+            "taxa_di": 0.13932
           },
           {
-            "dias_corridos": 409,
-            "dias_uteis": 278,
-            "taxa_di": 0.14116
-          },
-          {
-            "dias_corridos": 410,
-            "dias_uteis": 279,
-            "taxa_di": 0.14111
+            "dias_corridos": 418,
+            "dias_uteis": 285,
+            "taxa_di": 0.13874
           },
           {
             "dias_corridos": 420,
             "dias_uteis": 287,
-            "taxa_di": 0.14075
+            "taxa_di": 0.13864
           },
           {
-            "dias_corridos": 425,
-            "dias_uteis": 290,
-            "taxa_di": 0.14062
+            "dias_corridos": 432,
+            "dias_uteis": 294,
+            "taxa_di": 0.1383
           },
           {
-            "dias_corridos": 427,
-            "dias_uteis": 292,
-            "taxa_di": 0.14053
+            "dias_corridos": 437,
+            "dias_uteis": 296,
+            "taxa_di": 0.13821
           },
           {
-            "dias_corridos": 439,
-            "dias_uteis": 299,
-            "taxa_di": 0.14024
-          },
-          {
-            "dias_corridos": 444,
-            "dias_uteis": 301,
-            "taxa_di": 0.14016
+            "dias_corridos": 448,
+            "dias_uteis": 305,
+            "taxa_di": 0.1378
           },
           {
             "dias_corridos": 451,
             "dias_uteis": 306,
-            "taxa_di": 0.13996
+            "taxa_di": 0.13776
           },
           {
-            "dias_corridos": 455,
-            "dias_uteis": 310,
-            "taxa_di": 0.1398
+            "dias_corridos": 462,
+            "dias_uteis": 315,
+            "taxa_di": 0.13738
           },
           {
-            "dias_corridos": 469,
-            "dias_uteis": 320,
-            "taxa_di": 0.13942
+            "dias_corridos": 479,
+            "dias_uteis": 324,
+            "taxa_di": 0.13701
+          },
+          {
+            "dias_corridos": 480,
+            "dias_uteis": 325,
+            "taxa_di": 0.13698
           },
           {
             "dias_corridos": 481,
             "dias_uteis": 326,
-            "taxa_di": 0.1392
+            "taxa_di": 0.13694
           },
           {
-            "dias_corridos": 486,
-            "dias_uteis": 329,
-            "taxa_di": 0.13909
+            "dias_corridos": 490,
+            "dias_uteis": 333,
+            "taxa_di": 0.13667
           },
           {
-            "dias_corridos": 487,
-            "dias_uteis": 330,
-            "taxa_di": 0.13906
-          },
-          {
-            "dias_corridos": 488,
-            "dias_uteis": 331,
-            "taxa_di": 0.13903
-          },
-          {
-            "dias_corridos": 497,
-            "dias_uteis": 338,
-            "taxa_di": 0.13879
+            "dias_corridos": 507,
+            "dias_uteis": 344,
+            "taxa_di": 0.13628
           },
           {
             "dias_corridos": 510,
             "dias_uteis": 347,
-            "taxa_di": 0.1385
+            "taxa_di": 0.13618
           },
           {
-            "dias_corridos": 530,
-            "dias_uteis": 360,
-            "taxa_di": 0.13811
+            "dias_corridos": 523,
+            "dias_uteis": 355,
+            "taxa_di": 0.13591
           },
           {
-            "dias_corridos": 531,
-            "dias_uteis": 361,
-            "taxa_di": 0.13808
+            "dias_corridos": 524,
+            "dias_uteis": 356,
+            "taxa_di": 0.13588
+          },
+          {
+            "dias_corridos": 537,
+            "dias_uteis": 365,
+            "taxa_di": 0.13553
           },
           {
             "dias_corridos": 542,
             "dias_uteis": 368,
-            "taxa_di": 0.13783
-          },
-          {
-            "dias_corridos": 544,
-            "dias_uteis": 370,
-            "taxa_di": 0.13776
+            "taxa_di": 0.13542
           },
           {
             "dias_corridos": 570,
             "dias_uteis": 387,
-            "taxa_di": 0.1372
-          },
-          {
-            "dias_corridos": 577,
-            "dias_uteis": 392,
-            "taxa_di": 0.13705
+            "taxa_di": 0.13474
           },
           {
             "dias_corridos": 600,
             "dias_uteis": 408,
-            "taxa_di": 0.13658
+            "taxa_di": 0.13407
           },
           {
-            "dias_corridos": 607,
-            "dias_uteis": 413,
-            "taxa_di": 0.13644
-          },
-          {
-            "dias_corridos": 622,
-            "dias_uteis": 424,
-            "taxa_di": 0.13614
+            "dias_corridos": 615,
+            "dias_uteis": 419,
+            "taxa_di": 0.13375
           },
           {
             "dias_corridos": 630,
             "dias_uteis": 430,
-            "taxa_di": 0.136
+            "taxa_di": 0.13344
           },
           {
-            "dias_corridos": 654,
-            "dias_uteis": 446,
-            "taxa_di": 0.13566
+            "dias_corridos": 647,
+            "dias_uteis": 441,
+            "taxa_di": 0.13315
           },
           {
             "dias_corridos": 661,
             "dias_uteis": 451,
-            "taxa_di": 0.13557
+            "taxa_di": 0.13293
           },
           {
-            "dias_corridos": 668,
-            "dias_uteis": 456,
-            "taxa_di": 0.13548
+            "dias_corridos": 663,
+            "dias_uteis": 453,
+            "taxa_di": 0.13288
           },
           {
-            "dias_corridos": 670,
-            "dias_uteis": 458,
-            "taxa_di": 0.13544
+            "dias_corridos": 690,
+            "dias_uteis": 471,
+            "taxa_di": 0.1325
           },
           {
             "dias_corridos": 691,
             "dias_uteis": 472,
-            "taxa_di": 0.1352
+            "taxa_di": 0.13248
           },
           {
             "dias_corridos": 698,
             "dias_uteis": 477,
-            "taxa_di": 0.13511
+            "taxa_di": 0.13239
           },
           {
-            "dias_corridos": 705,
-            "dias_uteis": 482,
-            "taxa_di": 0.13503
+            "dias_corridos": 707,
+            "dias_uteis": 484,
+            "taxa_di": 0.13225
           },
           {
-            "dias_corridos": 714,
-            "dias_uteis": 489,
-            "taxa_di": 0.13492
+            "dias_corridos": 719,
+            "dias_uteis": 491,
+            "taxa_di": 0.13208
           },
           {
             "dias_corridos": 720,
-            "dias_uteis": 493,
-            "taxa_di": 0.13483
+            "dias_uteis": 492,
+            "taxa_di": 0.13206
           },
           {
-            "dias_corridos": 726,
-            "dias_uteis": 496,
-            "taxa_di": 0.13477
-          },
-          {
-            "dias_corridos": 752,
+            "dias_corridos": 753,
             "dias_uteis": 513,
-            "taxa_di": 0.13441
-          },
-          {
-            "dias_corridos": 760,
-            "dias_uteis": 518,
-            "taxa_di": 0.13431
+            "taxa_di": 0.13159
           },
           {
             "dias_corridos": 780,
             "dias_uteis": 532,
-            "taxa_di": 0.13404
+            "taxa_di": 0.13119
           },
           {
-            "dias_corridos": 789,
-            "dias_uteis": 539,
-            "taxa_di": 0.13391
+            "dias_corridos": 782,
+            "dias_uteis": 534,
+            "taxa_di": 0.13115
           },
           {
-            "dias_corridos": 808,
-            "dias_uteis": 552,
-            "taxa_di": 0.13368
+            "dias_corridos": 801,
+            "dias_uteis": 547,
+            "taxa_di": 0.1309
           },
           {
             "dias_corridos": 810,
             "dias_uteis": 554,
-            "taxa_di": 0.13366
+            "taxa_di": 0.13083
           },
           {
             "dias_corridos": 840,
             "dias_uteis": 576,
-            "taxa_di": 0.13347
+            "taxa_di": 0.1306
           },
           {
-            "dias_corridos": 851,
-            "dias_uteis": 583,
-            "taxa_di": 0.13341
+            "dias_corridos": 844,
+            "dias_uteis": 578,
+            "taxa_di": 0.13058
           },
           {
             "dias_corridos": 871,
             "dias_uteis": 595,
-            "taxa_di": 0.13331
+            "taxa_di": 0.13042
           },
           {
-            "dias_corridos": 880,
-            "dias_uteis": 602,
-            "taxa_di": 0.13326
+            "dias_corridos": 873,
+            "dias_uteis": 597,
+            "taxa_di": 0.13041
           },
           {
-            "dias_corridos": 899,
-            "dias_uteis": 615,
-            "taxa_di": 0.13316
+            "dias_corridos": 892,
+            "dias_uteis": 610,
+            "taxa_di": 0.13029
           },
           {
             "dias_corridos": 900,
             "dias_uteis": 616,
-            "taxa_di": 0.13316
+            "taxa_di": 0.13028
           },
           {
             "dias_corridos": 930,
             "dias_uteis": 635,
-            "taxa_di": 0.13316
+            "taxa_di": 0.13024
           },
           {
-            "dias_corridos": 941,
-            "dias_uteis": 642,
-            "taxa_di": 0.13316
+            "dias_corridos": 934,
+            "dias_uteis": 637,
+            "taxa_di": 0.13024
           },
           {
-            "dias_corridos": 958,
-            "dias_uteis": 655,
-            "taxa_di": 0.13317
+            "dias_corridos": 951,
+            "dias_uteis": 650,
+            "taxa_di": 0.13022
           },
           {
             "dias_corridos": 962,
             "dias_uteis": 657,
-            "taxa_di": 0.13317
+            "taxa_di": 0.1302
+          },
+          {
+            "dias_corridos": 971,
+            "dias_uteis": 663,
+            "taxa_di": 0.13019
+          },
+          {
+            "dias_corridos": 983,
+            "dias_uteis": 671,
+            "taxa_di": 0.13018
           },
           {
             "dias_corridos": 990,
             "dias_uteis": 676,
-            "taxa_di": 0.13317
+            "taxa_di": 0.1302
           },
           {
             "dias_corridos": 1020,
             "dias_uteis": 698,
-            "taxa_di": 0.13324
+            "taxa_di": 0.13026
           },
           {
-            "dias_corridos": 1033,
-            "dias_uteis": 707,
-            "taxa_di": 0.13327
+            "dias_corridos": 1026,
+            "dias_uteis": 702,
+            "taxa_di": 0.13028
+          },
+          {
+            "dias_corridos": 1043,
+            "dias_uteis": 715,
+            "taxa_di": 0.13031
           },
           {
             "dias_corridos": 1050,
-            "dias_uteis": 720,
-            "taxa_di": 0.1333
+            "dias_uteis": 719,
+            "taxa_di": 0.13033
+          },
+          {
+            "dias_corridos": 1062,
+            "dias_uteis": 727,
+            "taxa_di": 0.13035
+          },
+          {
+            "dias_corridos": 1074,
+            "dias_uteis": 735,
+            "taxa_di": 0.13037
           },
           {
             "dias_corridos": 1081,
             "dias_uteis": 740,
-            "taxa_di": 0.13336
+            "taxa_di": 0.13037
           },
           {
             "dias_corridos": 1110,
-            "dias_uteis": 760,
-            "taxa_di": 0.13337
+            "dias_uteis": 759,
+            "taxa_di": 0.13037
           },
           {
-            "dias_corridos": 1126,
-            "dias_uteis": 770,
-            "taxa_di": 0.13337
+            "dias_corridos": 1119,
+            "dias_uteis": 765,
+            "taxa_di": 0.13038
           },
           {
             "dias_corridos": 1140,
             "dias_uteis": 779,
-            "taxa_di": 0.13337
+            "taxa_di": 0.13038
           },
           {
-            "dias_corridos": 1173,
-            "dias_uteis": 800,
-            "taxa_di": 0.13338
+            "dias_corridos": 1166,
+            "dias_uteis": 795,
+            "taxa_di": 0.13038
+          },
+          {
+            "dias_corridos": 1172,
+            "dias_uteis": 799,
+            "taxa_di": 0.1304
           },
           {
             "dias_corridos": 1200,
             "dias_uteis": 819,
-            "taxa_di": 0.1335
+            "taxa_di": 0.13051
           },
           {
-            "dias_corridos": 1217,
-            "dias_uteis": 830,
-            "taxa_di": 0.13357
+            "dias_corridos": 1210,
+            "dias_uteis": 825,
+            "taxa_di": 0.13054
           },
           {
-            "dias_corridos": 1263,
-            "dias_uteis": 861,
-            "taxa_di": 0.13376
+            "dias_corridos": 1256,
+            "dias_uteis": 856,
+            "taxa_di": 0.13069
           },
           {
-            "dias_corridos": 1306,
-            "dias_uteis": 891,
-            "taxa_di": 0.134
+            "dias_corridos": 1299,
+            "dias_uteis": 886,
+            "taxa_di": 0.13096
           },
           {
-            "dias_corridos": 1354,
-            "dias_uteis": 924,
-            "taxa_di": 0.13424
+            "dias_corridos": 1347,
+            "dias_uteis": 919,
+            "taxa_di": 0.13123
           },
           {
-            "dias_corridos": 1384,
-            "dias_uteis": 946,
-            "taxa_di": 0.13435
+            "dias_corridos": 1377,
+            "dias_uteis": 941,
+            "taxa_di": 0.13132
           },
           {
-            "dias_corridos": 1398,
-            "dias_uteis": 956,
-            "taxa_di": 0.13441
+            "dias_corridos": 1391,
+            "dias_uteis": 951,
+            "taxa_di": 0.13135
+          },
+          {
+            "dias_corridos": 1438,
+            "dias_uteis": 983,
+            "taxa_di": 0.13147
           },
           {
             "dias_corridos": 1440,
             "dias_uteis": 985,
-            "taxa_di": 0.13455
+            "taxa_di": 0.13148
           },
           {
-            "dias_corridos": 1445,
-            "dias_uteis": 988,
-            "taxa_di": 0.13456
+            "dias_corridos": 1484,
+            "dias_uteis": 1014,
+            "taxa_di": 0.13165
           },
           {
-            "dias_corridos": 1491,
-            "dias_uteis": 1019,
-            "taxa_di": 0.13473
+            "dias_corridos": 1531,
+            "dias_uteis": 1044,
+            "taxa_di": 0.13182
           },
           {
-            "dias_corridos": 1538,
-            "dias_uteis": 1049,
-            "taxa_di": 0.13489
+            "dias_corridos": 1575,
+            "dias_uteis": 1076,
+            "taxa_di": 0.13199
           },
           {
-            "dias_corridos": 1582,
-            "dias_uteis": 1081,
-            "taxa_di": 0.13504
+            "dias_corridos": 1620,
+            "dias_uteis": 1105,
+            "taxa_di": 0.13213
           },
           {
-            "dias_corridos": 1627,
-            "dias_uteis": 1110,
-            "taxa_di": 0.13516
+            "dias_corridos": 1664,
+            "dias_uteis": 1135,
+            "taxa_di": 0.13233
           },
           {
-            "dias_corridos": 1671,
-            "dias_uteis": 1140,
-            "taxa_di": 0.13534
+            "dias_corridos": 1711,
+            "dias_uteis": 1167,
+            "taxa_di": 0.13254
           },
           {
-            "dias_corridos": 1718,
-            "dias_uteis": 1172,
-            "taxa_di": 0.13553
+            "dias_corridos": 1756,
+            "dias_uteis": 1200,
+            "taxa_di": 0.13267
           },
           {
-            "dias_corridos": 1763,
-            "dias_uteis": 1205,
-            "taxa_di": 0.13565
-          },
-          {
-            "dias_corridos": 1797,
-            "dias_uteis": 1229,
-            "taxa_di": 0.13574
+            "dias_corridos": 1790,
+            "dias_uteis": 1224,
+            "taxa_di": 0.13277
           },
           {
             "dias_corridos": 1802,
             "dias_uteis": 1232,
-            "taxa_di": 0.13575
+            "taxa_di": 0.1328
           },
           {
-            "dias_corridos": 1810,
-            "dias_uteis": 1238,
-            "taxa_di": 0.13577
+            "dias_corridos": 1803,
+            "dias_uteis": 1233,
+            "taxa_di": 0.1328
           },
           {
-            "dias_corridos": 1858,
-            "dias_uteis": 1271,
-            "taxa_di": 0.13596
+            "dias_corridos": 1851,
+            "dias_uteis": 1266,
+            "taxa_di": 0.13299
           },
           {
-            "dias_corridos": 1888,
-            "dias_uteis": 1292,
-            "taxa_di": 0.13608
+            "dias_corridos": 1881,
+            "dias_uteis": 1287,
+            "taxa_di": 0.1331
           },
           {
-            "dias_corridos": 1903,
-            "dias_uteis": 1301,
-            "taxa_di": 0.13613
+            "dias_corridos": 1896,
+            "dias_uteis": 1296,
+            "taxa_di": 0.13315
           },
           {
-            "dias_corridos": 1949,
-            "dias_uteis": 1333,
-            "taxa_di": 0.13629
+            "dias_corridos": 1942,
+            "dias_uteis": 1328,
+            "taxa_di": 0.13332
           },
           {
-            "dias_corridos": 1979,
-            "dias_uteis": 1353,
-            "taxa_di": 0.13638
+            "dias_corridos": 1972,
+            "dias_uteis": 1348,
+            "taxa_di": 0.13342
           },
           {
-            "dias_corridos": 2036,
-            "dias_uteis": 1391,
-            "taxa_di": 0.13655
+            "dias_corridos": 2029,
+            "dias_uteis": 1386,
+            "taxa_di": 0.1336
           },
           {
-            "dias_corridos": 2054,
-            "dias_uteis": 1403,
-            "taxa_di": 0.1366
+            "dias_corridos": 2047,
+            "dias_uteis": 1398,
+            "taxa_di": 0.13366
           },
           {
-            "dias_corridos": 2128,
-            "dias_uteis": 1456,
-            "taxa_di": 0.13682
+            "dias_corridos": 2063,
+            "dias_uteis": 1409,
+            "taxa_di": 0.13371
           },
           {
-            "dias_corridos": 2145,
-            "dias_uteis": 1467,
-            "taxa_di": 0.13686
+            "dias_corridos": 2121,
+            "dias_uteis": 1451,
+            "taxa_di": 0.13389
+          },
+          {
+            "dias_corridos": 2138,
+            "dias_uteis": 1462,
+            "taxa_di": 0.13394
+          },
+          {
+            "dias_corridos": 2154,
+            "dias_uteis": 1474,
+            "taxa_di": 0.13399
           },
           {
             "dias_corridos": 2160,
             "dias_uteis": 1478,
-            "taxa_di": 0.1369
+            "taxa_di": 0.134
           },
           {
-            "dias_corridos": 2222,
-            "dias_uteis": 1522,
-            "taxa_di": 0.13707
+            "dias_corridos": 2215,
+            "dias_uteis": 1517,
+            "taxa_di": 0.13416
           },
           {
-            "dias_corridos": 2268,
-            "dias_uteis": 1553,
-            "taxa_di": 0.13718
+            "dias_corridos": 2261,
+            "dias_uteis": 1548,
+            "taxa_di": 0.13428
           },
           {
-            "dias_corridos": 2313,
-            "dias_uteis": 1582,
-            "taxa_di": 0.13723
+            "dias_corridos": 2306,
+            "dias_uteis": 1577,
+            "taxa_di": 0.13435
           },
           {
-            "dias_corridos": 2404,
-            "dias_uteis": 1645,
-            "taxa_di": 0.13732
+            "dias_corridos": 2397,
+            "dias_uteis": 1640,
+            "taxa_di": 0.13448
           },
           {
-            "dias_corridos": 2495,
-            "dias_uteis": 1709,
-            "taxa_di": 0.13742
+            "dias_corridos": 2488,
+            "dias_uteis": 1704,
+            "taxa_di": 0.13461
           },
           {
             "dias_corridos": 2520,
             "dias_uteis": 1727,
-            "taxa_di": 0.13744
+            "taxa_di": 0.13465
           },
           {
-            "dias_corridos": 2587,
-            "dias_uteis": 1771,
-            "taxa_di": 0.1375
+            "dias_corridos": 2580,
+            "dias_uteis": 1766,
+            "taxa_di": 0.13472
           },
           {
-            "dias_corridos": 2635,
-            "dias_uteis": 1805,
-            "taxa_di": 0.13754
+            "dias_corridos": 2628,
+            "dias_uteis": 1800,
+            "taxa_di": 0.13478
           },
           {
-            "dias_corridos": 2678,
-            "dias_uteis": 1836,
-            "taxa_di": 0.13755
+            "dias_corridos": 2671,
+            "dias_uteis": 1831,
+            "taxa_di": 0.13481
           },
           {
-            "dias_corridos": 2768,
-            "dias_uteis": 1896,
-            "taxa_di": 0.13757
+            "dias_corridos": 2761,
+            "dias_uteis": 1891,
+            "taxa_di": 0.13486
           },
           {
-            "dias_corridos": 2859,
-            "dias_uteis": 1960,
-            "taxa_di": 0.13759
+            "dias_corridos": 2852,
+            "dias_uteis": 1955,
+            "taxa_di": 0.13491
           },
           {
             "dias_corridos": 2880,
-            "dias_uteis": 1975,
-            "taxa_di": 0.1376
+            "dias_uteis": 1974,
+            "taxa_di": 0.13492
           },
           {
-            "dias_corridos": 2952,
-            "dias_uteis": 2023,
-            "taxa_di": 0.13761
+            "dias_corridos": 2945,
+            "dias_uteis": 2018,
+            "taxa_di": 0.13496
           },
           {
-            "dias_corridos": 2999,
-            "dias_uteis": 2056,
-            "taxa_di": 0.13762
+            "dias_corridos": 2992,
+            "dias_uteis": 2051,
+            "taxa_di": 0.13498
           },
           {
-            "dias_corridos": 3043,
-            "dias_uteis": 2088,
-            "taxa_di": 0.13762
+            "dias_corridos": 3036,
+            "dias_uteis": 2083,
+            "taxa_di": 0.135
           },
           {
-            "dias_corridos": 3132,
-            "dias_uteis": 2146,
-            "taxa_di": 0.13763
+            "dias_corridos": 3125,
+            "dias_uteis": 2141,
+            "taxa_di": 0.13502
           },
           {
-            "dias_corridos": 3224,
-            "dias_uteis": 2211,
-            "taxa_di": 0.13764
+            "dias_corridos": 3217,
+            "dias_uteis": 2206,
+            "taxa_di": 0.13505
           },
           {
-            "dias_corridos": 3240,
+            "dias_corridos": 3241,
             "dias_uteis": 2223,
-            "taxa_di": 0.13764
+            "taxa_di": 0.13506
           },
           {
-            "dias_corridos": 3317,
-            "dias_uteis": 2274,
-            "taxa_di": 0.13765
+            "dias_corridos": 3310,
+            "dias_uteis": 2269,
+            "taxa_di": 0.13508
           },
           {
-            "dias_corridos": 3364,
-            "dias_uteis": 2304,
-            "taxa_di": 0.13765
+            "dias_corridos": 3357,
+            "dias_uteis": 2299,
+            "taxa_di": 0.13509
           },
           {
-            "dias_corridos": 3408,
-            "dias_uteis": 2334,
-            "taxa_di": 0.13761
+            "dias_corridos": 3401,
+            "dias_uteis": 2329,
+            "taxa_di": 0.13505
           },
           {
-            "dias_corridos": 3497,
-            "dias_uteis": 2395,
-            "taxa_di": 0.13753
+            "dias_corridos": 3490,
+            "dias_uteis": 2390,
+            "taxa_di": 0.13497
           },
           {
-            "dias_corridos": 3589,
-            "dias_uteis": 2460,
-            "taxa_di": 0.13744
+            "dias_corridos": 3582,
+            "dias_uteis": 2455,
+            "taxa_di": 0.13489
           },
           {
             "dias_corridos": 3601,
             "dias_uteis": 2468,
-            "taxa_di": 0.13743
+            "taxa_di": 0.13487
           },
           {
-            "dias_corridos": 3682,
-            "dias_uteis": 2523,
-            "taxa_di": 0.13737
+            "dias_corridos": 3675,
+            "dias_uteis": 2518,
+            "taxa_di": 0.13481
           },
           {
-            "dias_corridos": 3729,
-            "dias_uteis": 2553,
-            "taxa_di": 0.13733
+            "dias_corridos": 3722,
+            "dias_uteis": 2548,
+            "taxa_di": 0.13478
           },
           {
-            "dias_corridos": 3773,
-            "dias_uteis": 2585,
-            "taxa_di": 0.13729
+            "dias_corridos": 3766,
+            "dias_uteis": 2580,
+            "taxa_di": 0.13475
           },
           {
-            "dias_corridos": 3863,
-            "dias_uteis": 2644,
-            "taxa_di": 0.13723
+            "dias_corridos": 3856,
+            "dias_uteis": 2639,
+            "taxa_di": 0.1347
           },
           {
-            "dias_corridos": 3955,
-            "dias_uteis": 2709,
-            "taxa_di": 0.13716
+            "dias_corridos": 3948,
+            "dias_uteis": 2704,
+            "taxa_di": 0.13465
           },
           {
             "dias_corridos": 3960,
             "dias_uteis": 2712,
-            "taxa_di": 0.13716
+            "taxa_di": 0.13465
           },
           {
-            "dias_corridos": 4049,
-            "dias_uteis": 2775,
-            "taxa_di": 0.1371
+            "dias_corridos": 4042,
+            "dias_uteis": 2770,
+            "taxa_di": 0.1346
           },
           {
-            "dias_corridos": 4095,
-            "dias_uteis": 2806,
-            "taxa_di": 0.13707
+            "dias_corridos": 4088,
+            "dias_uteis": 2801,
+            "taxa_di": 0.13458
           },
           {
-            "dias_corridos": 4142,
-            "dias_uteis": 2837,
-            "taxa_di": 0.13698
+            "dias_corridos": 4135,
+            "dias_uteis": 2832,
+            "taxa_di": 0.13449
           },
           {
-            "dias_corridos": 4228,
-            "dias_uteis": 2896,
-            "taxa_di": 0.13681
+            "dias_corridos": 4221,
+            "dias_uteis": 2891,
+            "taxa_di": 0.13432
+          },
+          {
+            "dias_corridos": 4315,
+            "dias_uteis": 2956,
+            "taxa_di": 0.13415
           },
           {
             "dias_corridos": 4322,
             "dias_uteis": 2961,
-            "taxa_di": 0.13664
+            "taxa_di": 0.13414
           },
           {
-            "dias_corridos": 4413,
-            "dias_uteis": 3023,
-            "taxa_di": 0.13648
+            "dias_corridos": 4406,
+            "dias_uteis": 3018,
+            "taxa_di": 0.13399
           },
           {
-            "dias_corridos": 4462,
-            "dias_uteis": 3055,
-            "taxa_di": 0.1364
+            "dias_corridos": 4455,
+            "dias_uteis": 3050,
+            "taxa_di": 0.13391
           },
           {
-            "dias_corridos": 4504,
-            "dias_uteis": 3085,
-            "taxa_di": 0.13637
+            "dias_corridos": 4497,
+            "dias_uteis": 3080,
+            "taxa_di": 0.13388
           },
           {
-            "dias_corridos": 4595,
-            "dias_uteis": 3146,
-            "taxa_di": 0.13631
+            "dias_corridos": 4588,
+            "dias_uteis": 3141,
+            "taxa_di": 0.13383
+          },
+          {
+            "dias_corridos": 4679,
+            "dias_uteis": 3205,
+            "taxa_di": 0.13377
           },
           {
             "dias_corridos": 4680,
             "dias_uteis": 3206,
-            "taxa_di": 0.13626
+            "taxa_di": 0.13377
           },
           {
-            "dias_corridos": 4686,
-            "dias_uteis": 3210,
-            "taxa_di": 0.13625
+            "dias_corridos": 4771,
+            "dias_uteis": 3267,
+            "taxa_di": 0.13372
           },
           {
-            "dias_corridos": 4778,
-            "dias_uteis": 3272,
-            "taxa_di": 0.1362
+            "dias_corridos": 4819,
+            "dias_uteis": 3301,
+            "taxa_di": 0.13369
           },
           {
-            "dias_corridos": 4826,
-            "dias_uteis": 3306,
-            "taxa_di": 0.13617
+            "dias_corridos": 4862,
+            "dias_uteis": 3332,
+            "taxa_di": 0.13367
           },
           {
-            "dias_corridos": 4869,
-            "dias_uteis": 3337,
-            "taxa_di": 0.13615
-          },
-          {
-            "dias_corridos": 4959,
-            "dias_uteis": 3397,
-            "taxa_di": 0.13612
+            "dias_corridos": 4952,
+            "dias_uteis": 3392,
+            "taxa_di": 0.13364
           },
           {
             "dias_corridos": 5040,
             "dias_uteis": 3455,
-            "taxa_di": 0.1361
+            "taxa_di": 0.13361
           },
           {
-            "dias_corridos": 5050,
-            "dias_uteis": 3461,
-            "taxa_di": 0.13609
+            "dias_corridos": 5043,
+            "dias_uteis": 3456,
+            "taxa_di": 0.13361
           },
           {
-            "dias_corridos": 5143,
-            "dias_uteis": 3524,
-            "taxa_di": 0.13606
+            "dias_corridos": 5136,
+            "dias_uteis": 3519,
+            "taxa_di": 0.13358
           },
           {
-            "dias_corridos": 5190,
-            "dias_uteis": 3557,
-            "taxa_di": 0.13605
+            "dias_corridos": 5183,
+            "dias_uteis": 3552,
+            "taxa_di": 0.13356
           },
           {
-            "dias_corridos": 5234,
-            "dias_uteis": 3587,
-            "taxa_di": 0.13604
+            "dias_corridos": 5227,
+            "dias_uteis": 3582,
+            "taxa_di": 0.13355
           },
           {
-            "dias_corridos": 5324,
-            "dias_uteis": 3649,
-            "taxa_di": 0.13601
+            "dias_corridos": 5317,
+            "dias_uteis": 3644,
+            "taxa_di": 0.13352
           },
           {
             "dias_corridos": 5400,
             "dias_uteis": 3702,
-            "taxa_di": 0.13599
+            "taxa_di": 0.13349
           },
           {
-            "dias_corridos": 5416,
-            "dias_uteis": 3714,
-            "taxa_di": 0.13598
+            "dias_corridos": 5409,
+            "dias_uteis": 3709,
+            "taxa_di": 0.13349
           },
           {
-            "dias_corridos": 5509,
-            "dias_uteis": 3777,
-            "taxa_di": 0.13596
+            "dias_corridos": 5502,
+            "dias_uteis": 3772,
+            "taxa_di": 0.13346
           },
           {
             "dias_corridos": 5582,
             "dias_uteis": 3825,
-            "taxa_di": 0.13594
+            "taxa_di": 0.13344
           },
           {
-            "dias_corridos": 5600,
-            "dias_uteis": 3839,
-            "taxa_di": 0.13593
+            "dias_corridos": 5593,
+            "dias_uteis": 3834,
+            "taxa_di": 0.13343
           },
           {
-            "dias_corridos": 5689,
-            "dias_uteis": 3898,
-            "taxa_di": 0.13591
+            "dias_corridos": 5682,
+            "dias_uteis": 3893,
+            "taxa_di": 0.13341
           },
           {
-            "dias_corridos": 5781,
-            "dias_uteis": 3963,
-            "taxa_di": 0.13589
+            "dias_corridos": 5774,
+            "dias_uteis": 3958,
+            "taxa_di": 0.13338
           },
           {
-            "dias_corridos": 5876,
-            "dias_uteis": 4029,
-            "taxa_di": 0.13586
+            "dias_corridos": 5869,
+            "dias_uteis": 4024,
+            "taxa_di": 0.13336
           },
           {
-            "dias_corridos": 5969,
-            "dias_uteis": 4091,
-            "taxa_di": 0.13584
+            "dias_corridos": 5962,
+            "dias_uteis": 4086,
+            "taxa_di": 0.13334
           },
           {
-            "dias_corridos": 6054,
-            "dias_uteis": 4149,
-            "taxa_di": 0.13582
+            "dias_corridos": 6047,
+            "dias_uteis": 4144,
+            "taxa_di": 0.13332
           },
           {
-            "dias_corridos": 6146,
-            "dias_uteis": 4214,
-            "taxa_di": 0.1358
+            "dias_corridos": 6139,
+            "dias_uteis": 4209,
+            "taxa_di": 0.13329
           },
           {
-            "dias_corridos": 6240,
-            "dias_uteis": 4280,
-            "taxa_di": 0.13578
+            "dias_corridos": 6233,
+            "dias_uteis": 4275,
+            "taxa_di": 0.13327
           },
           {
-            "dias_corridos": 6331,
-            "dias_uteis": 4340,
-            "taxa_di": 0.13576
+            "dias_corridos": 6324,
+            "dias_uteis": 4335,
+            "taxa_di": 0.13325
           },
           {
-            "dias_corridos": 6419,
-            "dias_uteis": 4401,
-            "taxa_di": 0.13575
+            "dias_corridos": 6412,
+            "dias_uteis": 4396,
+            "taxa_di": 0.13323
           },
           {
-            "dias_corridos": 6513,
-            "dias_uteis": 4466,
-            "taxa_di": 0.13573
+            "dias_corridos": 6506,
+            "dias_uteis": 4461,
+            "taxa_di": 0.13321
           },
           {
-            "dias_corridos": 6604,
-            "dias_uteis": 4528,
-            "taxa_di": 0.13571
+            "dias_corridos": 6597,
+            "dias_uteis": 4523,
+            "taxa_di": 0.13319
           },
           {
-            "dias_corridos": 6695,
-            "dias_uteis": 4590,
-            "taxa_di": 0.13569
+            "dias_corridos": 6688,
+            "dias_uteis": 4585,
+            "taxa_di": 0.13317
           },
           {
-            "dias_corridos": 6786,
-            "dias_uteis": 4651,
-            "taxa_di": 0.13568
+            "dias_corridos": 6779,
+            "dias_uteis": 4646,
+            "taxa_di": 0.13316
           },
           {
-            "dias_corridos": 6877,
-            "dias_uteis": 4715,
-            "taxa_di": 0.13566
+            "dias_corridos": 6870,
+            "dias_uteis": 4710,
+            "taxa_di": 0.13314
           },
           {
-            "dias_corridos": 6970,
-            "dias_uteis": 4778,
-            "taxa_di": 0.13565
+            "dias_corridos": 6963,
+            "dias_uteis": 4773,
+            "taxa_di": 0.13312
           },
           {
-            "dias_corridos": 7061,
-            "dias_uteis": 4843,
-            "taxa_di": 0.13563
+            "dias_corridos": 7054,
+            "dias_uteis": 4838,
+            "taxa_di": 0.13311
           },
           {
-            "dias_corridos": 7150,
-            "dias_uteis": 4901,
-            "taxa_di": 0.13562
+            "dias_corridos": 7143,
+            "dias_uteis": 4896,
+            "taxa_di": 0.13309
           },
           {
             "dias_corridos": 7200,
             "dias_uteis": 4936,
-            "taxa_di": 0.13561
+            "taxa_di": 0.13308
           },
           {
-            "dias_corridos": 7242,
-            "dias_uteis": 4966,
-            "taxa_di": 0.1356
+            "dias_corridos": 7235,
+            "dias_uteis": 4961,
+            "taxa_di": 0.13307
           },
           {
-            "dias_corridos": 7426,
-            "dias_uteis": 5089,
-            "taxa_di": 0.13557
+            "dias_corridos": 7419,
+            "dias_uteis": 5084,
+            "taxa_di": 0.13304
           },
           {
-            "dias_corridos": 7607,
-            "dias_uteis": 5215,
-            "taxa_di": 0.13555
+            "dias_corridos": 7600,
+            "dias_uteis": 5210,
+            "taxa_di": 0.13302
           },
           {
-            "dias_corridos": 7791,
-            "dias_uteis": 5340,
-            "taxa_di": 0.13552
+            "dias_corridos": 7784,
+            "dias_uteis": 5335,
+            "taxa_di": 0.13299
           },
           {
-            "dias_corridos": 7972,
-            "dias_uteis": 5464,
-            "taxa_di": 0.1355
+            "dias_corridos": 7965,
+            "dias_uteis": 5459,
+            "taxa_di": 0.13296
           },
           {
-            "dias_corridos": 8160,
-            "dias_uteis": 5592,
-            "taxa_di": 0.13547
+            "dias_corridos": 8153,
+            "dias_uteis": 5587,
+            "taxa_di": 0.13294
           },
           {
-            "dias_corridos": 8340,
-            "dias_uteis": 5716,
-            "taxa_di": 0.13545
+            "dias_corridos": 8333,
+            "dias_uteis": 5711,
+            "taxa_di": 0.13291
           },
           {
-            "dias_corridos": 8522,
-            "dias_uteis": 5840,
-            "taxa_di": 0.13543
+            "dias_corridos": 8515,
+            "dias_uteis": 5835,
+            "taxa_di": 0.13289
           },
           {
-            "dias_corridos": 8704,
-            "dias_uteis": 5965,
-            "taxa_di": 0.13541
+            "dias_corridos": 8697,
+            "dias_uteis": 5960,
+            "taxa_di": 0.13287
           },
           {
-            "dias_corridos": 8887,
-            "dias_uteis": 6092,
-            "taxa_di": 0.13539
+            "dias_corridos": 8880,
+            "dias_uteis": 6087,
+            "taxa_di": 0.13285
           },
           {
             "dias_corridos": 9000,
-            "dias_uteis": 6169,
-            "taxa_di": 0.13538
+            "dias_uteis": 6168,
+            "taxa_di": 0.13284
           },
           {
-            "dias_corridos": 9068,
-            "dias_uteis": 6216,
-            "taxa_di": 0.13537
+            "dias_corridos": 9061,
+            "dias_uteis": 6211,
+            "taxa_di": 0.13283
+          },
+          {
+            "dias_corridos": 10797,
+            "dias_uteis": 7400,
+            "taxa_di": 0.13267
           },
           {
             "dias_corridos": 10800,
             "dias_uteis": 7403,
-            "taxa_di": 0.13523
+            "taxa_di": 0.13267
           },
           {
-            "dias_corridos": 10804,
-            "dias_uteis": 7405,
-            "taxa_di": 0.13523
-          },
-          {
-            "dias_corridos": 12722,
-            "dias_uteis": 8722,
-            "taxa_di": 0.13511
+            "dias_corridos": 12715,
+            "dias_uteis": 8717,
+            "taxa_di": 0.13255
           }
         ]
       }
